@@ -1,0 +1,737 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\Pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\css\\Pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\plugins.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\icon\\1.png",
+      "PackagePath": "staticwebassets\\images\\about\\icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\icon\\2.png",
+      "PackagePath": "staticwebassets\\images\\about\\icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\team\\1-1-270x270.png",
+      "PackagePath": "staticwebassets\\images\\about\\team\\1-1-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\team\\1-2-270x270.png",
+      "PackagePath": "staticwebassets\\images\\about\\team\\1-2-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\team\\1-3-270x270.png",
+      "PackagePath": "staticwebassets\\images\\about\\team\\1-3-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\team\\1-4-270x270.png",
+      "PackagePath": "staticwebassets\\images\\about\\team\\1-4-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\1-1-770x300.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-1-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\1-2-370x300.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-2-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\1-3-370x300.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-3-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\1-4-770x300.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1-4-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\2-1-570x500.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-1-570x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\2-2-570x235.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-2-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\2-3-570x235.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2-3-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\3-1-1208x542.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\3-1-1208x542.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\4-1-1170x400.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\4-1-1170x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-1-120x120.png",
+      "PackagePath": "staticwebassets\\images\\blog\\avatar\\1-1-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-2-120x120.png",
+      "PackagePath": "staticwebassets\\images\\blog\\avatar\\1-2-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-3-120x120.png",
+      "PackagePath": "staticwebassets\\images\\blog\\avatar\\1-3-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\blockquote\\quotation.png",
+      "PackagePath": "staticwebassets\\images\\blog\\blockquote\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\large-size\\1-1-768x546.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\large-size\\1-1-768x546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-1-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\1-1-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-2-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\1-2-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-3-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\1-3-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\2-1-370x270.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\2-1-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\2-2-370x270.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\medium-size\\2-2-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-1-70x70.png",
+      "PackagePath": "staticwebassets\\images\\blog\\small-size\\1-1-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-2-70x70.png",
+      "PackagePath": "staticwebassets\\images\\blog\\small-size\\1-2-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-3-70x70.png",
+      "PackagePath": "staticwebassets\\images\\blog\\small-size\\1-3-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\1-1.png",
+      "PackagePath": "staticwebassets\\images\\brand\\1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\1-2.png",
+      "PackagePath": "staticwebassets\\images\\brand\\1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\1-3.png",
+      "PackagePath": "staticwebassets\\images\\brand\\1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\1-4.png",
+      "PackagePath": "staticwebassets\\images\\brand\\1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\1-5.png",
+      "PackagePath": "staticwebassets\\images\\brand\\1-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\bg\\1-1170x300.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\bg\\1-1170x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\breadcrumb\\bg\\1-1-1919x388.jpg",
+      "PackagePath": "staticwebassets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\contact\\1-1-370x500.jpg",
+      "PackagePath": "staticwebassets\\images\\contact\\1-1-370x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\error-404\\404.png",
+      "PackagePath": "staticwebassets\\images\\error-404\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\error-404\\bg\\1-1920x886.png",
+      "PackagePath": "staticwebassets\\images\\error-404\\bg\\1-1920x886.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\footer\\bg\\1-1920x465.jpg",
+      "PackagePath": "staticwebassets\\images\\footer\\bg\\1-1920x465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\logo\\dark.png",
+      "PackagePath": "staticwebassets\\images\\logo\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\newsletter\\1-1920x400.jpg",
+      "PackagePath": "staticwebassets\\images\\newsletter\\1-1920x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\offcanvas\\close-white.svg",
+      "PackagePath": "staticwebassets\\images\\offcanvas\\close-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\images\\payment\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-1-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\1-1-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-2-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\1-2-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-3-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\1-3-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-4-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\1-4-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-10-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-10-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-11-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-11-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-3-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-3-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-4-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-4-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-5-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-5-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-6-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-6-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-7-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-7-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-8-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-8-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-9-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\medium-size\\1-9-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-1-112x124.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\1-1-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-2-112x124.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\1-2-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-3-112x124.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\1-3-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-1-70x78.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\2-1-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-2-70x78.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\2-2-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-3-70x78.png",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\2-3-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shape\\1.png",
+      "PackagePath": "staticwebassets\\images\\shape\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shape\\2.png",
+      "PackagePath": "staticwebassets\\images\\shape\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\car.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\card.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\earphones.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\earphones.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\home.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\message.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\message.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\phone.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\plane.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\plane.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\service.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\shield.png",
+      "PackagePath": "staticwebassets\\images\\shipping\\icon\\shield.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\sidebar\\banner\\1-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\sidebar\\banner\\1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\bg\\1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\bg\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\bg\\2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\bg\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\inner-img\\1-1-524x617.png",
+      "PackagePath": "staticwebassets\\images\\slider\\inner-img\\1-1-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\inner-img\\1-2-524x617.png",
+      "PackagePath": "staticwebassets\\images\\slider\\inner-img\\1-2-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-1-960x741.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-img\\2-1-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-2-960x741.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-img\\2-2-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-3-960x741.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide-img\\2-3-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\testimonial\\bg\\1-1-1820x443.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\bg\\1-1-1820x443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\testimonial\\icon\\quotation.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\icon\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\testimonial\\user\\1.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\user\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\testimonial\\user\\2.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\user\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\testimonial\\user\\3.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\user\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1--1rnu4p.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1--1rnu4p.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-120x120.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-1820x443.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-1820x443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-524x617.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-768x546.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-768x546.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-770x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-10-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-10-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-11-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-11-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1170x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1170x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1920x465.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-1920x465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-120x120.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-370x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-524x617.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-270x300.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-270x300.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3-120x120.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3-120x120.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3-310x220.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3-370x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-4-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-4-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-4-570x633.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-4-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-4-770x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-4-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-4.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-5-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-5-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-5.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-6-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-6-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-7-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-7-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-8-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-8-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-9-270x300.jpg",
+      "PackagePath": "staticwebassets\\images\\website-images\\1-9-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2-1-370x270.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\2-1-370x270.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2-1-70x78.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\2-1-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2-2-370x270.webp",
+      "PackagePath": "staticwebassets\\images\\website-images\\2-2-370x270.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2-2-70x78.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\2-2-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2-3-70x78.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\2-3-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\3.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\car.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\card.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\dark.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\quotation.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\service.png",
+      "PackagePath": "staticwebassets\\images\\website-images\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\mailchimp-ajax.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\mailchimp-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\tippy.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\tippy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\vendor\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
