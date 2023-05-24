@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yktbDijXG8NxPxlU+u34OxmKMm+gBh/GQHhHF0N5T84=",
+  "Hash": "As0CUbRqEZmsZWCMN5Tlwmll/aIVFamZ6sQd3btVLP4=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication1\\wwwroot",
       "Source": "WebApplication1",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication1.styles.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication1.styles.css",
       "SourceId": "WebApplication1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "WebApplication1.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication1.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebApplication1.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
       "SourceId": "WebApplication1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "WebApplication1.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\animate.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\animate.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/animate.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\ion.rangeSlider.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\ion.rangeSlider.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/ion.rangeSlider.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ion.rangeSlider.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\magnific-popup.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\magnific-popup.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/magnific-popup.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\magnific-popup.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\nice-select.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\nice-select.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/nice-select.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nice-select.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\Pe-icon-7-stroke.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\Pe-icon-7-stroke.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/Pe-icon-7-stroke.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Pe-icon-7-stroke.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\plugins.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\plugins.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/plugins.min.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\style.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\style.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/style.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\swiper-bundle.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\swiper-bundle.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\swiper-bundle.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.eot",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Pe-icon-7-stroke.eot",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Pe-icon-7-stroke.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.svg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.svg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Pe-icon-7-stroke.svg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Pe-icon-7-stroke.svg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.ttf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.ttf",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Pe-icon-7-stroke.ttf",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Pe-icon-7-stroke.ttf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.woff",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\Pe-icon-7-stroke.woff",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "fonts/Pe-icon-7-stroke.woff",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Pe-icon-7-stroke.woff"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\icon\\1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\icon\\1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/about/icon/1.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about\\icon\\1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\icon\\2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\icon\\2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/about/icon/2.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about\\icon\\2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\team\\1-1-270x270.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\team\\1-1-270x270.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/about/team/1-1-270x270.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about\\team\\1-1-270x270.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\team\\1-2-270x270.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\team\\1-2-270x270.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/about/team/1-2-270x270.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about\\team\\1-2-270x270.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\team\\1-3-270x270.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\team\\1-3-270x270.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/about/team/1-3-270x270.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about\\team\\1-3-270x270.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\about\\team\\1-4-270x270.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\team\\1-4-270x270.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/about/team/1-4-270x270.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about\\team\\1-4-270x270.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\1-1-770x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\1-1-770x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/banner/1-1-770x300.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\1-1-770x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\1-2-370x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\1-2-370x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/banner/1-2-370x300.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\1-2-370x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\1-3-370x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\1-3-370x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/banner/1-3-370x300.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\1-3-370x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\1-4-770x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\1-4-770x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/banner/1-4-770x300.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\1-4-770x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\2-1-570x500.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\2-1-570x500.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/banner/2-1-570x500.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\2-1-570x500.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\2-2-570x235.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\2-2-570x235.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/banner/2-2-570x235.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\2-2-570x235.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\2-3-570x235.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\2-3-570x235.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/banner/2-3-570x235.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\2-3-570x235.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\3-1-1208x542.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\3-1-1208x542.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/banner/3-1-1208x542.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\3-1-1208x542.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner\\4-1-1170x400.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\banner\\4-1-1170x400.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/banner/4-1-1170x400.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner\\4-1-1170x400.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-1-120x120.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-1-120x120.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/avatar/1-1-120x120.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\avatar\\1-1-120x120.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-2-120x120.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-2-120x120.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/avatar/1-2-120x120.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\avatar\\1-2-120x120.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-3-120x120.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\avatar\\1-3-120x120.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/avatar/1-3-120x120.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\avatar\\1-3-120x120.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\blockquote\\quotation.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\blockquote\\quotation.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/blockquote/quotation.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\blockquote\\quotation.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\large-size\\1-1-768x546.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\large-size\\1-1-768x546.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/large-size/1-1-768x546.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\large-size\\1-1-768x546.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-1-310x220.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-1-310x220.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/medium-size/1-1-310x220.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\medium-size\\1-1-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-2-310x220.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-2-310x220.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/medium-size/1-2-310x220.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\medium-size\\1-2-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-3-310x220.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\1-3-310x220.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/medium-size/1-3-310x220.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\medium-size\\1-3-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\2-1-370x270.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\2-1-370x270.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/medium-size/2-1-370x270.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\medium-size\\2-1-370x270.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\2-2-370x270.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\medium-size\\2-2-370x270.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/medium-size/2-2-370x270.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\medium-size\\2-2-370x270.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-1-70x70.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-1-70x70.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/small-size/1-1-70x70.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\small-size\\1-1-70x70.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-2-70x70.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-2-70x70.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/small-size/1-2-70x70.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\small-size\\1-2-70x70.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-3-70x70.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\blog\\small-size\\1-3-70x70.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/blog/small-size/1-3-70x70.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\small-size\\1-3-70x70.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\1-1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\1-1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/brand/1-1.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand\\1-1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\1-2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\1-2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/brand/1-2.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand\\1-2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\1-3.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\1-3.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/brand/1-3.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand\\1-3.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\1-4.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\1-4.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/brand/1-4.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand\\1-4.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\1-5.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\1-5.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/brand/1-5.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand\\1-5.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\brand\\bg\\1-1170x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\brand\\bg\\1-1170x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/brand/bg/1-1170x300.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\brand\\bg\\1-1170x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\breadcrumb\\bg\\1-1-1919x388.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\breadcrumb\\bg\\1-1-1919x388.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/breadcrumb/bg/1-1-1919x388.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\breadcrumb\\bg\\1-1-1919x388.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\contact\\1-1-370x500.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\contact\\1-1-370x500.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/contact/1-1-370x500.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\contact\\1-1-370x500.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\error-404\\404.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\error-404\\404.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/error-404/404.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\error-404\\404.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\error-404\\bg\\1-1920x886.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\error-404\\bg\\1-1920x886.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/error-404/bg/1-1920x886.png",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\error-404\\bg\\1-1920x886.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\favicon.ico",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\favicon.ico",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/favicon.ico",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\footer\\bg\\1-1920x465.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\footer\\bg\\1-1920x465.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/footer/bg/1-1920x465.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\footer\\bg\\1-1920x465.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\logo\\dark.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\logo\\dark.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/logo/dark.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\dark.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\newsletter\\1-1920x400.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\newsletter\\1-1920x400.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/newsletter/1-1920x400.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\newsletter\\1-1920x400.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\offcanvas\\close-white.svg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\offcanvas\\close-white.svg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/offcanvas/close-white.svg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\offcanvas\\close-white.svg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\payment\\1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\payment\\1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/payment/1.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\payment\\1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-1-570x633.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-1-570x633.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/large-size/1-1-570x633.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\large-size\\1-1-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-2-570x633.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-2-570x633.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/large-size/1-2-570x633.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\large-size\\1-2-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-3-570x633.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-3-570x633.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/large-size/1-3-570x633.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\large-size\\1-3-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-4-570x633.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\large-size\\1-4-570x633.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/large-size/1-4-570x633.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\large-size\\1-4-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-10-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-10-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/medium-size/1-10-270x300.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\medium-size\\1-10-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-11-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-11-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/medium-size/1-11-270x300.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\medium-size\\1-11-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-1-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-1-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/medium-size/1-1-270x300.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\medium-size\\1-1-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-2-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-2-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/medium-size/1-2-270x300.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\medium-size\\1-2-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-3-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-3-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/medium-size/1-3-270x300.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\medium-size\\1-3-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-4-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-4-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/medium-size/1-4-270x300.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\medium-size\\1-4-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-5-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-5-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/medium-size/1-5-270x300.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\medium-size\\1-5-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-6-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-6-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/medium-size/1-6-270x300.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\medium-size\\1-6-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-7-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-7-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/medium-size/1-7-270x300.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\medium-size\\1-7-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-8-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-8-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/medium-size/1-8-270x300.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\medium-size\\1-8-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-9-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\medium-size\\1-9-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/medium-size/1-9-270x300.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\medium-size\\1-9-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-1-112x124.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-1-112x124.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/small-size/1-1-112x124.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\small-size\\1-1-112x124.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-2-112x124.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-2-112x124.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/small-size/1-2-112x124.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\small-size\\1-2-112x124.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-3-112x124.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\1-3-112x124.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/small-size/1-3-112x124.png",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\small-size\\1-3-112x124.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-1-70x78.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-1-70x78.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/small-size/2-1-70x78.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\small-size\\2-1-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-2-70x78.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-2-70x78.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/small-size/2-2-70x78.png",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\small-size\\2-2-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-3-70x78.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\product\\small-size\\2-3-70x78.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/product/small-size/2-3-70x78.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\small-size\\2-3-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shape\\1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shape\\1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/shape/1.png",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shape\\1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shape\\2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shape\\2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/shape/2.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shape\\2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\car.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\car.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/shipping/icon/car.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shipping\\icon\\car.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\card.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\card.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/shipping/icon/card.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shipping\\icon\\card.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\earphones.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\earphones.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/shipping/icon/earphones.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shipping\\icon\\earphones.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\home.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\home.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/shipping/icon/home.png",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shipping\\icon\\home.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\message.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\message.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/shipping/icon/message.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shipping\\icon\\message.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\phone.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\phone.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/shipping/icon/phone.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shipping\\icon\\phone.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\plane.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\plane.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/shipping/icon/plane.png",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shipping\\icon\\plane.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\service.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\service.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/shipping/icon/service.png",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shipping\\icon\\service.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\shipping\\icon\\shield.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\shipping\\icon\\shield.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/shipping/icon/shield.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\images\\shipping\\icon\\shield.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\sidebar\\banner\\1-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\sidebar\\banner\\1-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/sidebar/banner/1-270x300.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sidebar\\banner\\1-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\bg\\1-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\bg\\1-1.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/slider/bg/1-1.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\bg\\1-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\bg\\2-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\bg\\2-1.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/slider/bg/2-1.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\bg\\2-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\inner-img\\1-1-524x617.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\inner-img\\1-1-524x617.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/slider/inner-img/1-1-524x617.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\inner-img\\1-1-524x617.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\inner-img\\1-2-524x617.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\inner-img\\1-2-524x617.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/slider/inner-img/1-2-524x617.png",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\inner-img\\1-2-524x617.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-1-960x741.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-1-960x741.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/slider/slide-img/2-1-960x741.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\slide-img\\2-1-960x741.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-2-960x741.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-2-960x741.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/slider/slide-img/2-2-960x741.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\slide-img\\2-2-960x741.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-3-960x741.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\slider\\slide-img\\2-3-960x741.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/slider/slide-img/2-3-960x741.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider\\slide-img\\2-3-960x741.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\testimonial\\bg\\1-1-1820x443.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\testimonial\\bg\\1-1-1820x443.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/testimonial/bg/1-1-1820x443.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonial\\bg\\1-1-1820x443.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\testimonial\\icon\\quotation.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\testimonial\\icon\\quotation.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/testimonial/icon/quotation.png",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonial\\icon\\quotation.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\testimonial\\user\\1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\testimonial\\user\\1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/testimonial/user/1.png",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonial\\user\\1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\testimonial\\user\\2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\testimonial\\user\\2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/testimonial/user/2.png",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonial\\user\\2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\testimonial\\user\\3.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\testimonial\\user\\3.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/testimonial/user/3.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonial\\user\\3.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1.png",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-10-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-10-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-10-270x300.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-10-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-120x120.webp",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-120x120.webp",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1-120x120.webp",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1-120x120.webp"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-11-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-11-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-11-270x300.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-11-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1170x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1170x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1170x300.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1170x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-1820x443.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-1820x443.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1-1820x443.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1-1820x443.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1-270x300.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-310x220.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-310x220.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1-310x220.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-524x617.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-524x617.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1-524x617.png",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1-524x617.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-570x633.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-570x633.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1-570x633.jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-768x546.webp",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-768x546.webp",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1-768x546.webp",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1-768x546.webp"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1-770x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1-770x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1-770x300.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1-770x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-1920x465.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-1920x465.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-1920x465.jpg",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-1920x465.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1--1rnu4p.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1--1rnu4p.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1--1rnu4p.png",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1--1rnu4p.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-2.png",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-120x120.webp",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-120x120.webp",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-2-120x120.webp",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-2-120x120.webp"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-2-270x300.jpg",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-2-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-310x220.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-310x220.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-2-310x220.jpg",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-2-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-370x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-370x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-2-370x300.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-2-370x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-524x617.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-524x617.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-2-524x617.png",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-2-524x617.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-2-570x633.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-2-570x633.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-2-570x633.jpg",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-2-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-270x300.webp",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-270x300.webp",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-270x300.webp",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-270x300.webp"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-3.png",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-3.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3-120x120.webp",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3-120x120.webp",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-3-120x120.webp",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-3-120x120.webp"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-3-270x300.jpg",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-3-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3-310x220.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3-310x220.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-3-310x220.jpg",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-3-310x220.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3-370x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3-370x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-3-370x300.jpg",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-3-370x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-3-570x633.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-3-570x633.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-3-570x633.jpg",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-3-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-4.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-4.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-4.png",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-4.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-4-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-4-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-4-270x300.jpg",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-4-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-4-570x633.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-4-570x633.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-4-570x633.jpg",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-4-570x633.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-4-770x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-4-770x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-4-770x300.jpg",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-4-770x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-5.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-5.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-5.png",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-5.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-5-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-5-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-5-270x300.jpg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-5-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-6-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-6-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-6-270x300.jpg",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-6-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-7-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-7-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-7-270x300.jpg",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-7-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-8-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-8-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-8-270x300.jpg",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-8-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\1-9-270x300.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\1-9-270x300.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/1-9-270x300.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\1-9-270x300.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/2.png",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2-1-370x270.webp",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2-1-370x270.webp",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/2-1-370x270.webp",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\2-1-370x270.webp"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2-1-70x78.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2-1-70x78.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/2-1-70x78.png",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\2-1-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2-2-370x270.webp",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2-2-370x270.webp",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/2-2-370x270.webp",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\2-2-370x270.webp"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2-2-70x78.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2-2-70x78.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/2-2-70x78.png",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\2-2-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\2-3-70x78.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\2-3-70x78.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/2-3-70x78.png",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\2-3-70x78.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\3.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\3.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/3.png",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\3.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\car.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\car.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/car.png",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\car.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\card.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\card.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/card.png",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\card.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\dark.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\dark.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/dark.png",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\dark.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\quotation.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\quotation.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/quotation.png",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\quotation.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\images\\website-images\\service.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\website-images\\service.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "images/website-images/service.png",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\images\\website-images\\service.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\main.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/plugins.min.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\ion.rangeSlider.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\ion.rangeSlider.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/plugins/ion.rangeSlider.min.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\ion.rangeSlider.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\jquery.counterup.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\jquery.counterup.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/plugins/jquery.counterup.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\jquery.counterup.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\jquery.magnific-popup.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/plugins/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\jquery.nice-select.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\jquery.nice-select.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/plugins/jquery.nice-select.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\jquery.nice-select.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\mailchimp-ajax.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\mailchimp-ajax.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/plugins/mailchimp-ajax.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\mailchimp-ajax.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\parallax.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\parallax.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/plugins/parallax.min.js",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\parallax.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\swiper-bundle.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\swiper-bundle.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/plugins/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\swiper-bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\tippy.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\tippy.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/plugins/tippy.min.js",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\tippy.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\plugins\\wow.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\plugins\\wow.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/plugins/wow.min.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\wow.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\vendor\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\vendor\\bootstrap.bundle.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/vendor/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\vendor\\jquery.waypoints.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\vendor\\jquery.waypoints.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/vendor/jquery.waypoints.js",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\jquery.waypoints.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\vendor\\jquery-3.6.0.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\vendor\\jquery-3.6.0.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/vendor/jquery-3.6.0.min.js",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\jquery-3.6.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\vendor\\jquery-migrate-3.3.2.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/vendor/jquery-migrate-3.3.2.min.js",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\jquery-migrate-3.3.2.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\vendor\\modernizr-3.11.2.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\js\\vendor\\modernizr-3.11.2.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/vendor/modernizr-3.11.2.min.js",
       "AssetKind": "All",

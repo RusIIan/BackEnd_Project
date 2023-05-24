@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication1
 build_property.RootNamespace = WebApplication1
-build_property.ProjectDir = C:\Users\Admin\Desktop\WebApplication1\WebApplication1\
+build_property.ProjectDir = C:\Users\Admin\Desktop\BackEnd\WebApplication1\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\WebApplication1\WebApplication1
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\BackEnd\WebApplication1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/About/Index.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/Checkout/Index.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/Checkout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/Contact/Index.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/LoginRegister/Index.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/LoginRegister/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5SZWdpc3RlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/MyAccount/Index.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/MyAccount/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlBY2NvdW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/ProductStyle/Index.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/ProductStyle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFN0eWxlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/Shop/Index.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/Shop/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/ViewCart/Index.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/ViewCart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld0NhcnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/Wishlist/Index.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/Wishlist/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lzaGxpc3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/_ViewImports.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/_ViewStart.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/WebApplication1/WebApplication1/Views/Shared/_Layout.cshtml]
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bddmc6yalx
