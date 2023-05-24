@@ -5,6 +5,710 @@
       "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\chart.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\js\\template.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\css\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\chart.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\js\\template.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
       "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\css\\Pe-icon-7-stroke.css",
       "PackagePath": "staticwebassets\\css\\Pe-icon-7-stroke.css"
     },
@@ -87,6 +791,14 @@
     {
       "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\0f8b6f44-a003-4e9d-b123-a9f974827062___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "PackagePath": "staticwebassets\\images\\0f8b6f44-a003-4e9d-b123-a9f974827062___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\16e736bc-f069-4a22-9baf-46890c5e7659___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "PackagePath": "staticwebassets\\images\\16e736bc-f069-4a22-9baf-46890c5e7659___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
     },
     {
       "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\about\\icon\\1.png",
@@ -231,6 +943,30 @@
     {
       "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\contact\\1-1-370x500.jpg",
       "PackagePath": "staticwebassets\\images\\contact\\1-1-370x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\0701f4d9-1a19-4462-a7e7-30d4a85761bd___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\0701f4d9-1a19-4462-a7e7-30d4a85761bd___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\3248c55d-a25d-4b98-aa92-1bd1e6fdeab6___tesla-tesla-model-s-tesla-usa-ssha.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\3248c55d-a25d-4b98-aa92-1bd1e6fdeab6___tesla-tesla-model-s-tesla-usa-ssha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\52202227-00b6-459b-9d9d-4e6a30d8c9e6___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\52202227-00b6-459b-9d9d-4e6a30d8c9e6___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\7f188903-c384-4ab0-ac46-de38dccc986c__tesla-tesla-model-s-tesla-usa-ssha.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\7f188903-c384-4ab0-ac46-de38dccc986c__tesla-tesla-model-s-tesla-usa-ssha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\d5cacdc7-b35e-4a5f-84bf-29209d76fea1___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\d5cacdc7-b35e-4a5f-84bf-29209d76fea1___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\fe593d69-5277-45e2-8b7d-3141b8c011aa___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "PackagePath": "staticwebassets\\images\\dbphoto\\fe593d69-5277-45e2-8b7d-3141b8c011aa___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
     },
     {
       "Id": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\error-404\\404.png",

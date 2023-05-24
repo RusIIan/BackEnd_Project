@@ -1,6 +1,6 @@
 ﻿namespace WebApplication1.Models
 {
-    public class Category:BaseEntity<int>
+    public class Category : BaseEntity<int>
     {
     }
 }

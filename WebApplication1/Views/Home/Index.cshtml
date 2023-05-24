@@ -1,94 +1,57 @@
-﻿@{
+﻿@model HomeVM
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<!-- Begin Slider Area -->
+
       <div class="slider-area">
         <!-- Main Slider -->
         <div class="swiper-container main-slider swiper-arrow with-bg_white">
           <div class="swiper-wrapper">
-            <div class="swiper-slide animation-style-01">
-              <div
-                class="slide-inner style-1 bg-height"
-                data-bg-image="/images/slider/bg/1-1.jpg"
-              >
-                <div class="container">
-                  <div class="row">
-                    <div class="col-lg-6 order-2 order-lg-1 align-self-center">
-                      <div class="slide-content text-black">
-                        <span class="offer">65% Off</span>
-                        <h2 class="title">New Plant</h2>
-                        <p class="short-desc">
-                          Pronia, With 100% Natural, Organic & Plant Shop.
-                        </p>
-                        <div class="btn-wrap">
-                          <a
-                            class="btn btn-custom-size xl-size btn-pronia-primary"
-                            href="shop.html"
-                            >Discover Now</a
-                          >
+              @foreach (var item in Model.Sliders)
+            {
+                <div class="swiper-slide animation-style-01">
+                  <div
+                    class="slide-inner style-1 bg-height"
+                    data-bg-image="/images/slider/bg/1-1.jpg"
+                  >
+                    <div class="container">
+                      <div class="row">
+                        <div class="col-lg-6 order-2 order-lg-1 align-self-center">
+                          <div class="slide-content text-black">
+                            <span class="offer">@item.Percent Off</span>
+                            <h2 class="title">@item.Label</h2>
+                            <p class="short-desc">
+                              @item.Description
+                            </p>
+                            <div class="btn-wrap">
+                              <a
+                                class="btn btn-custom-size xl-size btn-pronia-primary"
+                                href="shop.html"
+                                >Discover Now</a
+                              >
+                            </div>
+                          </div>
                         </div>
-                      </div>
-                    </div>
-                    <div
-                      class="col-lg-6 col-md-8 offset-md-2 offset-lg-0 order-1 order-lg-2"
-                    >
-                      <div class="inner-img">
-                        <div class="scene fill">
-                          <div class="expand-width" data-depth="0.2">
-                            <img
-                              src="~/images/website-images//1-1-524x617.png"
-                              alt="Inner Image"
-                            />
+                        <div
+                          class="col-lg-6 col-md-8 offset-md-2 offset-lg-0 order-1 order-lg-2"
+                        >
+                          <div class="inner-img">
+                            <div class="scene fill">
+                              <div class="expand-width" data-depth="0.2">
+                                <img
+                                  src="~/images/dbphoto/@item.Image"
+                                  alt="Inner Image"
+                                />
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-              </div>
-            </div>
-            <div class="swiper-slide animation-style-01">
-              <div
-                class="slide-inner style-1 bg-height"
-                data-bg-image="/images/slider/bg/1-1.jpg"
-              >
-                <div class="container">
-                  <div class="row">
-                    <div class="col-lg-6 order-2 order-lg-1 align-self-center">
-                      <div class="slide-content text-black">
-                        <span class="offer">65% Off</span>
-                        <h2 class="title">New Plant</h2>
-                        <p class="short-desc">
-                          Pronia, With 100% Natural, Organic & Plant Shop.
-                        </p>
-                        <div class="btn-wrap">
-                          <a
-                            class="btn btn-custom-size xl-size btn-pronia-primary"
-                            href="shop.html"
-                            >Discover Now</a
-                          >
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      class="col-lg-6 col-md-8 offset-md-2 offset-lg-0 order-1 order-lg-2"
-                    >
-                      <div class="inner-img">
-                        <div class="scene fill">
-                          <div class="expand-width" data-depth="0.2">
-                            <img
-                              src="~/images/website-images//1-2-524x617.png"
-                              alt="Inner Image"
-                            />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            }
           </div>
           <!-- Add Pagination -->
           <div class="swiper-pagination d-md-none"></div>
@@ -100,56 +63,33 @@
       </div>
       <!-- Slider Area End Here -->
 
-      <!-- Begin Shipping Area -->
+
+
+      <!--Shipping Area -->
       <div class="shipping-area section-space-top-100">
-        <div class="container">
-          <div class="shipping-bg">
-            <div class="row shipping-wrap">
-              <div class="col-lg-4 col-md-6">
-                <div class="shipping-item">
-                  <div class="shipping-img">
-                    <img
-                      src="~/images/website-images//car.png"
-                      alt="Shipping Icon"
-                    />
-                  </div>
-                  <div class="shipping-content">
-                    <h2 class="title">Free Shipping</h2>
-                    <p class="short-desc mb-0">Capped at $319 per order</p>
-                  </div>
+         <div class="container">
+            <div class="shipping-bg">
+                <div class="row shipping-wrap">
+                   @foreach (var item in Model.Shippings)
+                   {
+                      <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+                         <div class="shipping-item">
+                               <div class="shipping-img">
+                                 <img
+                                   src="~/images/dbphoto/@item.Image"
+                                   alt="Shipping Icon"
+                                 />
+                               </div>
+                               <div class="shipping-content">
+                                 <h2 class="title">@item.Label</h2>
+                                 <p class="short-desc mb-0">@item.Description</p>
+                               </div>
+                         </div>
+                      </div>
+                   }
                 </div>
-              </div>
-              <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-                <div class="shipping-item">
-                  <div class="shipping-img">
-                    <img
-                      src="~/images/website-images//card.png"
-                      alt="Shipping Icon"
-                    />
-                  </div>
-                  <div class="shipping-content">
-                    <h2 class="title">Safe Payment</h2>
-                    <p class="short-desc mb-0">With our payment gateway</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-                <div class="shipping-item">
-                  <div class="shipping-img">
-                    <img
-                      src="~/images/website-images//service.png"
-                      alt="Shipping Icon"
-                    />
-                  </div>
-                  <div class="shipping-content">
-                    <h2 class="title">Best Services</h2>
-                    <p class="short-desc mb-0">Friendly & Supper Services</p>
-                  </div>
-                </div>
-              </div>
             </div>
-          </div>
-        </div>
+         </div>
       </div>
       <!-- Shipping Area End Here -->
 

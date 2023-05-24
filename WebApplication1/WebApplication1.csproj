@@ -7,15 +7,30 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\" />
-    <Folder Include="Areas\AdminPanel\Controllers\" />
-    <Folder Include="Areas\AdminPanel\Data\" />
-    <Folder Include="Areas\AdminPanel\Models\" />
-    <Folder Include="Areas\AdminPanel\Views\" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="wwwroot\images\dbphoto\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Areas\AdminPanel\Views\Shipping\Details.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\AdminPanel\Views\Shipping\Update.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

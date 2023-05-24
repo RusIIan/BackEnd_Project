@@ -16,6 +16,54 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\BackEnd\WebApplication1
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/Shipping/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTaGlwcGluZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/Shipping/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTaGlwcGluZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/Shipping/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTaGlwcGluZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/Shipping/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTaGlwcGluZ1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/Slider/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTbGlkZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/Slider/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTbGlkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/Slider/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTbGlkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/Slider/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTbGlkZXJcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/BackEnd/WebApplication1/Areas/AdminPanel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/Desktop/BackEnd/WebApplication1/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
