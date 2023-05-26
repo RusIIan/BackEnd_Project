@@ -48,7 +48,7 @@ namespace WebApplication1.Migrations
                     b.ToTable("Sliders");
                 });
 
-            modelBuilder.Entity("WebApplication1.Models.Category", b =>
+            modelBuilder.Entity("WebApplication1.Models.HomeCategory", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -61,7 +61,7 @@ namespace WebApplication1.Migrations
                     b.ToTable("Categories");
                 });
 
-            modelBuilder.Entity("WebApplication1.Models.Product", b =>
+            modelBuilder.Entity("WebApplication1.Models.HomeProduct", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

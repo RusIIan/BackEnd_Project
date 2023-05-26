@@ -56,7 +56,7 @@ public class SliderController : Controller
 
         Slider slider = new()
         {
-            Percent = createSliderVM.Precent,
+            Precent = createSliderVM.Precent,
             Label = createSliderVM.Label,
             Description = createSliderVM.Description,
             Image = filename
@@ -78,11 +78,7 @@ public class SliderController : Controller
     [HttpPost]
     public async Task<IActionResult> Delete(int id)
     {
-        var sliderCount = await _context.Sliders.CountAsync();
-    /*    if (sliderCount <= 2)
-        {
-            return RedirectToAction(nameof(Index));
-        }*/
+      
         var slider = await _context.Sliders.FirstOrDefaultAsync(x => x.Id == id);
 
         if (slider == null) return View();
@@ -110,7 +106,7 @@ public class SliderController : Controller
         var updateSlideVm = new UpdateSliderVM()
         {
             Id = updateSlider.Id,
-            Precent = updateSlider.Percent,
+            Precent = updateSlider.Precent,
             Label = updateSlider.Label,
             Description = updateSlider.Description,
             Image = updateSlider.Image,
@@ -124,7 +120,7 @@ public class SliderController : Controller
         var updateSlider = await _context.Sliders.FirstOrDefaultAsync(x => x.Id == updateSliderVM.Id);
         if (updateSlider == null) return NotFound();
 
-        if (updateSliderVM.Photo.Length > 0)
+        if (updateSliderVM.Photo != null)
         {
             #region CreateNewImage
             if (!updateSliderVM.Photo.ContentType.Contains("image/"))
@@ -148,7 +144,7 @@ public class SliderController : Controller
 
             #region DeleteOldImage
 
-            string oldPath = Path.Combine(_webHostEnvironment.WebRootPath, "images/dbphoto/dbphoto", updateSlider.Image);
+            string oldPath = Path.Combine(_webHostEnvironment.WebRootPath, "images/dbphoto", updateSlider.Image);
             if (System.IO.File.Exists(oldPath))
             {
                 System.IO.File.Delete(oldPath);
@@ -159,6 +155,7 @@ public class SliderController : Controller
         }
 
 
+        updateSlider.Precent = updateSliderVM.Precent;
         updateSlider.Label = updateSliderVM.Label;
         updateSlider.Description = updateSliderVM.Description;
         await _context.SaveChangesAsync();

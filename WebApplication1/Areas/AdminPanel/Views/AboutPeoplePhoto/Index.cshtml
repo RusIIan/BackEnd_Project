@@ -1,0 +1,63 @@
+﻿@model List<AboutPeoplePhoto>
+@{
+    int count = 1;
+}
+<div class="container">
+    <div class="d-flex justify-content-end">
+        <a asp-action="Create" class="btn btn-outline-success mx-2 my-2">Create</a>
+    </div>
+    <div class="row">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Surname</th>
+                    <th scope="col">Image</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td scope="col">@(count++)</td>
+                        <td scope="col">@item.Description</td>
+                        <td scope="col">@item.Name</td>
+                        <td scope="col">@item.Surname</td>
+                        <td scope="col">
+                            <img src="~/images//dbphoto/@item.Img" style="border-radius:20%" />
+                        </td>
+                        <td>
+                            <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-outline-warning">Update</a>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-info">Deteils</a>
+                            <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#exampleModal@(count)">
+                                Delete
+                            </button>
+
+                            <div class="modal fade" id="exampleModal@(count)" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title">Delete Item</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <p>Are you sure you want to remove Slider</p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-outline-primary" data-bs-dismiss="modal">No</button>
+                                            <form style="display:inline-block" asp-action="Delete" method="post">
+                                                <input type="submit" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger" value="Yes">
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

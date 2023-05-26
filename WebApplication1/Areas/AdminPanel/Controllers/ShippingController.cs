@@ -79,10 +79,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
         public async Task<IActionResult> Delete(int id)
         {
             var shippingsCount = await _context.Shippings.CountAsync();
-            /*    if (shippingsCount <= 2)
-                {
-                    return RedirectToAction(nameof(Index));
-                }*/
+ 
             var shippings = await _context.Shippings.FirstOrDefaultAsync(x => x.Id == id);
 
             if (shippings == null) return View();
@@ -123,7 +120,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
             var updateshippings = await _context.Shippings.FirstOrDefaultAsync(x => x.Id == updateshippingsVM.Id);
             if (updateshippings == null) return NotFound();
 
-            if (updateshippingsVM.Photo.Length > 0)
+            if (updateshippingsVM.Photo !=null)
             {
                 #region CreateNewImage
                 if (!updateshippingsVM.Photo.ContentType.Contains("image/"))
@@ -147,7 +144,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
 
                 #region DeleteOldImage
 
-                string oldPath = Path.Combine(_webHostEnvironment.WebRootPath, "images/dbphoto/dbphoto", updateshippings.Image);
+                string oldPath = Path.Combine(_webHostEnvironment.WebRootPath, "images/dbphoto", updateshippings.Image);
                 if (System.IO.File.Exists(oldPath))
                 {
                     System.IO.File.Delete(oldPath);

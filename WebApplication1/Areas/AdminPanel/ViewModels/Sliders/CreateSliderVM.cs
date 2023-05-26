@@ -5,7 +5,7 @@ namespace WebApplication1.Areas.AdminPanel.ViewModels.Sliders;
 public class CreateSliderVM
 {
     [Required]
-    public decimal Precent { get; set; }
+    public string Precent { get; set; }
     [Required]
     public string Label { get; set; }
     [Required]

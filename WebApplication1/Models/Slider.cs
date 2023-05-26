@@ -1,9 +1,10 @@
-﻿using WebApplication1.Models;
+﻿using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
+using WebApplication1.Models;
 
 public class Slider:BaseEntity<int>
 {
-    public decimal Percent { get; set; }
-    public string Label { get; set; }
-    public string Description { get; set; }
-    public string Image { get; set; }
+    public string Precent { get; set; } = string.Empty;
+    public string Label { get; set; } = string.Empty;
+    public string Description { get; set; } = string.Empty;
+    public string Image { get; set; } = string.Empty;
 }

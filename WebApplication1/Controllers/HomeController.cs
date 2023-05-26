@@ -18,10 +18,12 @@ namespace WebApplication1.Controllers
         {
             var slider = await _context.Sliders.ToListAsync();
             var shipping = await _context.Shippings.ToListAsync();
+            var homeProduct = await _context.HomeProducts.ToListAsync();
             HomeVM homeVM = new ()
             {
                 Sliders = slider,
                 Shippings = shipping,
+                HomeProducts= homeProduct,
             };
             return View(homeVM);
         }
