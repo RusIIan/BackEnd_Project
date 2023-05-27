@@ -14,6 +14,7 @@ namespace WebApplication1.Data
         public DbSet<HomeCategory> HomeCategories  { get; set; }
         public DbSet<Shipping> Shippings  { get; set; }
         public DbSet<About> Abouts  { get; set; }
+        public DbSet<Contact> Contacts  { get; set; }
         public DbSet<AboutPeoplePhoto> AboutPeoplePhotos { get; set; }
         public DbSet<BanerSlider> BanerSliders { get; set; }
     }

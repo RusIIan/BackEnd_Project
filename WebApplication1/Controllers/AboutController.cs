@@ -17,6 +17,7 @@ namespace WebApplication1.Controllers
         public async Task<IActionResult> Index()
         {
             var about= await _context.Abouts.ToListAsync();
+            var About= await _context.Abouts.FirstOrDefaultAsync();
             var shipping = await _context.Shippings.ToListAsync();
             var banerSlider = await _context.BanerSliders.ToListAsync();
             var peoplePhoto = await _context.AboutPeoplePhotos.ToListAsync();
@@ -26,6 +27,7 @@ namespace WebApplication1.Controllers
             var aboutVM = new AboutVM()
             {
                 Abouts = about,
+                abouts = About,
                 Shippings = shipping,
                 BanerSliders = banerSlider,
                 PeoplePhotos = peoplePhoto,

@@ -3872,6 +3872,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\98800223-ecc2-402c-99d9-4bf271fb7472___mercedes-mercedes-benz-glc-white.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\9f6338a4-47de-4713-804c-2ffa6ac53d4e___kawasaki-h2r-bike-supersport.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication1</BasePath>
+      <RelativePath>images/dbphoto/9f6338a4-47de-4713-804c-2ffa6ac53d4e___kawasaki-h2r-bike-supersport.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\9f6338a4-47de-4713-804c-2ffa6ac53d4e___kawasaki-h2r-bike-supersport.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\a290460b-2287-4bf8-b7a1-ec26ea4dd2c6___porsche-991-gt-blue-vag-autumn.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication1</SourceId>

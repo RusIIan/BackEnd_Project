@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NL9NW3sJS34QMYpwBf8xUBMSTHEdn/4ggvmwHifRpIs=",
+  "Hash": "8xBikiQBw1jQsO6sXEW/rN5LXR8R8fPewXPDJh2z7zI=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -4163,6 +4163,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\98800223-ecc2-402c-99d9-4bf271fb7472___mercedes-mercedes-benz-glc-white.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\9f6338a4-47de-4713-804c-2ffa6ac53d4e___kawasaki-h2r-bike-supersport.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/dbphoto/9f6338a4-47de-4713-804c-2ffa6ac53d4e___kawasaki-h2r-bike-supersport.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\9f6338a4-47de-4713-804c-2ffa6ac53d4e___kawasaki-h2r-bike-supersport.jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\a290460b-2287-4bf8-b7a1-ec26ea4dd2c6___porsche-991-gt-blue-vag-autumn.jpg",

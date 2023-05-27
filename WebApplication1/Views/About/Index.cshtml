@@ -21,12 +21,10 @@
     <div class="about-area section-space-top-95">
         <div class="container">
             <div class="row">
-                @foreach (var item in Model.Abouts)
-                {
                     <div class="col-lg-12">
                         <div class="about-content">
                             <h2 class="about-title">Our <span>Story</span></h2>
-                            <p class="about-desc">@item.UpDescription
+                            <p class="about-desc">@Model.abouts.UpDescription
                             </p>
                             <div class="about-signature">
                                 <img src="~/images/about/icon/2.png"
@@ -34,7 +32,6 @@
                             </div>
                         </div>
                     </div>
-                }
             </div>
         </div>
     </div>
@@ -70,15 +67,13 @@
         <div class="banner-area">
             <div class="container">
                 <div class="row">
-                   @foreach (var item in Model.Abouts)
-                    {
                         <div class="col-lg-12">
                             <div class="banner-boxshadow">
                                 <div class="banner-item"
-                                     data-bg-image="/images/dbphoto/@item.Image">
+                                     data-bg-image="/images/dbphoto/@Model.abouts.Image">
                                     <div class="popup-btn">
                                         <a class="popup-vimeo wave-btn"
-                                           href="@item.VideoLink">
+                                           href="@Model.abouts.VideoLink">
                                             <span></span>
                                             <span></span>
                                             <span></span>
@@ -90,7 +85,6 @@
                                 </div>
                             </div>
                         </div>
-                    }
                 </div>
             </div>
         </div>
@@ -225,7 +219,7 @@
                                 {
                                  <div class="swiper-slide">
                                     <a class="brand-item" href="#">
-                                        <img src="~/images/dbphoto/@item.Image"
+                                        <img src="~/images/dbphoto/@item.image"
                                              alt="Brand Image" />
                                     </a>
                                 </div>

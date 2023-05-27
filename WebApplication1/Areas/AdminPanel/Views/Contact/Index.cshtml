@@ -1,4 +1,4 @@
-﻿@model List<BanerSlider>
+﻿@model List<Contact>
 @{
     int count = 1;
 }
@@ -11,7 +11,10 @@
             <thead>
                 <tr>
                     <th scope="col">#</th>
-                    <th scope="col">Image</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Phone</th>
+                    <th scope="col">Address</th>
                 </tr>
             </thead>
             <tbody>
@@ -19,9 +22,10 @@
                 {
                     <tr>
                         <td scope="col">@(count++)</td>
-                        <td scope="col">
-                            <img src="~/images//dbphoto/@item.image" style="border-radius:20%" />
-                        </td>
+                        <td scope="col">@item.Description</td>
+                        <td scope="col">@item.EmailAddress</td>
+                        <td scope="col">@item.PhoneNumber</td>
+                        <td scope="col">@item.Address</td>
                         <td>
                             <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-outline-warning">Update</a>
                             <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-info">Deteils</a>
@@ -49,7 +53,7 @@
                                 </div>
                             </div>
                         </td>
-                </tr>
+                    </tr>
                 }
             </tbody>
         </table>

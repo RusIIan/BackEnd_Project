@@ -58,7 +58,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
 
             BanerSlider about = new()
             {
-                Image = filename,
+                image = filename,
             };
             await _context.BanerSliders.AddAsync(about);
             await _context.SaveChangesAsync();
@@ -83,7 +83,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
             var about = await _context.BanerSliders.FirstOrDefaultAsync(a => a.Id == id);
             if (about == null) return View();
 
-            string path = Path.Combine(_webHostEnvironment.WebRootPath, "images/dbphoto", about.Image);
+            string path = Path.Combine(_webHostEnvironment.WebRootPath, "images/dbphoto", about.image);
 
             if (System.IO.File.Exists(path))
             {
@@ -99,9 +99,9 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
             var updateAbout = await _context.BanerSliders.FirstOrDefaultAsync(x => x.Id == id);
             if (updateAbout == null) return NotFound();
 
-            var updateAboutUpVM = new BanerSlider()
+            var updateAboutUpVM = new UpdateBanerVM()
             {
-                Image = updateAbout.Image,
+                Image = updateAbout.image
             };
             return View(updateAboutUpVM);
         }
@@ -136,13 +136,13 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
 
                 #region DeleteOldImage
 
-                string oldPath = Path.Combine(_webHostEnvironment.WebRootPath, "images/dbphoto", updateAboutUp.Image);
+                string oldPath = Path.Combine(_webHostEnvironment.WebRootPath, "images/dbphoto", updateAboutUp.image);
                 if (System.IO.File.Exists(oldPath))
                 {
                     System.IO.File.Delete(oldPath);
                 }
 
-                updateAboutUp.Image = filename;
+                updateAboutUp.image = filename;
                 #endregion
             }
                     await _context.SaveChangesAsync();
