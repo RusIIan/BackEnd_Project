@@ -1,0 +1,27 @@
+﻿@model Baner
+
+<div class="container">
+    <h1>Slider Details</h1>
+    <div class="row">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Label</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.Label</td>
+                    <td>@Model.Description</td>
+                    <td>
+                        <img src="~/images//dbphoto/@Model.Image" width="200px" height="150px" />
+                    </td>
+                    <td>
+                        <a asp-action="Index" class="btn btn-outline-danger btn-light">Cancel</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

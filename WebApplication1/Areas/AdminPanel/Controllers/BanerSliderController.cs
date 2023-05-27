@@ -32,7 +32,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(CreateBanerVm createAboutVM)
+        public async Task<IActionResult> Create(CreateBanerSliderVm createAboutVM)
         {
             if (!ModelState.IsValid)
             {
@@ -99,7 +99,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
             var updateAbout = await _context.BanerSliders.FirstOrDefaultAsync(x => x.Id == id);
             if (updateAbout == null) return NotFound();
 
-            var updateAboutUpVM = new UpdateBanerVM()
+            var updateAboutUpVM = new UpdateBanerSliderVM()
             {
                 Image = updateAbout.image
             };
@@ -107,7 +107,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Update(UpdateBanerVM updateAboutUpVM)
+        public async Task<IActionResult> Update(UpdateBanerSliderVM updateAboutUpVM)
         {
             var updateAboutUp = await _context.BanerSliders.FirstOrDefaultAsync(x => x.Id == updateAboutUpVM.Id);
             if (updateAboutUp == null) return NotFound();

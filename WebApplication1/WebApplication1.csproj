@@ -46,6 +46,30 @@
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
+    <Content Update="Areas\AdminPanel\Views\Baner\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\AdminPanel\Views\Baner\Update.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\AdminPanel\Views\Blog\Create.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\AdminPanel\Views\Blog\Details.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\AdminPanel\Views\Blog\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\AdminPanel\Views\Blog\Update.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
     <Content Update="Areas\AdminPanel\Views\Shipping\Details.cshtml">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
@@ -63,10 +87,20 @@
   <ItemGroup>
     <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\AboutPeoplePhoto\Create.cshtml" />
     <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\AboutPeoplePhoto\Details.cshtml" />
+    <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\Baner\Create.cshtml" />
+    <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\Baner\Details.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
     <UpToDateCheckInput Remove="Areas\AdminPanel\Views\AboutPeoplePhoto\Details.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Areas\AdminPanel\Views\Baner\Create.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Areas\AdminPanel\Views\Baner\Details.cshtml" />
   </ItemGroup>
 
 </Project>

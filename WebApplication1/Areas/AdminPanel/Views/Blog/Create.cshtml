@@ -1,0 +1,24 @@
+﻿@model CreateBlogVM
+<div class="container">
+    <h1 class="text-center my-2">Create Slider</h1>
+    <div class="row">
+        <form asp-action="Create" method="post" class="forms-sample my-2" enctype="multipart/form-data">
+            <div class="form-group">
+                <input asp-for="Description" class="form-control" placeholder="Description">
+            </div>
+            <div class="form-group">
+                <input asp-for="BlogTitle" class="form-control" placeholder="BlogTitle">
+            </div> 
+            <div class="form-group">
+                <input asp-for="BlogDescription" class="form-control" placeholder="BlogDescription">
+            </div>
+            <div class="form-group">
+                <label>Slider Image</label>
+                <input asp-for="Photo" class="form-control">
+            </div>
+
+            <button type="submit" class="btn btn-outline-success me-2">Submit</button>
+            <a asp-action="Index" class="btn btn-outline-danger btn-light">Cancel</a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,28 @@
+﻿@model UpdateBlogVM
+
+<div class="container">
+    <h1 class="text-center my-2">Update Slider</h1>
+    <img src="~/images/dbphoto/@Model.Image" width="250px" height="250px" style="border-radius:10%" />
+
+    <div class="row">
+        <form asp-action="Update" method="post" class="forms-sample my-2" enctype="multipart/form-data">
+            <div class="form-group">
+                <input asp-for="Description" class="form-control" placeholder="Label">
+            </div>   
+            <div class="form-group">
+                <input asp-for="BlogTitle " class="form-control" placeholder="Star">
+            </div>
+            <div class="form-group">
+                <input asp-for="BlogDescription" class="form-control" placeholder="Price">
+            </div>
+            <div class="form-group">
+                <label>Blog Image</label>
+                <input asp-for="Photo" class="form-control">
+            </div>
+
+            <button type="submit" class="btn btn-outline-success me-2">Submit</button>
+            <input type="hidden" asp-for="Id" />
+            <a asp-action="Index" class="btn btn-outline-danger btn-light">Cancel</a>
+        </form>
+    </div>
+</div>

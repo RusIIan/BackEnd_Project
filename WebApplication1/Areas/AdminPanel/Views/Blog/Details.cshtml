@@ -1,0 +1,14 @@
+﻿@model Blog
+
+<div class="container">
+    <h1>Slider Details</h1>
+    <div class="row">
+        <div>
+            <img src="~/images//dbphoto/@Model.Image" width="200px" height="200px" />
+            <h2>@Model.Description</h2>
+            <h3>@Model.BlogTitle</h3>
+            <h3>@Model.BlogDescription</h3>
+            <a asp-action="Index" class="btn btn-outline-danger btn-light">Cancel</a>
+        </div>
+    </div>
+</div>

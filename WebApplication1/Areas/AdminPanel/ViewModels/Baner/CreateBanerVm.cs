@@ -1,11 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebApplication1.Areas.AdminPanel.ViewModels.Baner
+namespace WebApplication1.Areas.AdminPanel.ViewModels.Baner;
+
+public class CreateBanerVM
 {
-    public class CreateBanerVm
-    {
-        [Required]
-        public IFormFile Photo { get; set; }
-    }
+    public string Label { get; set; }
+    public string Description { get; set; }
+    [Required]
+    public IFormFile Photo { get; set; }
 }

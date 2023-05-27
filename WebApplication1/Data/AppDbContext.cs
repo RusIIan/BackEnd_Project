@@ -17,5 +17,8 @@ namespace WebApplication1.Data
         public DbSet<Contact> Contacts  { get; set; }
         public DbSet<AboutPeoplePhoto> AboutPeoplePhotos { get; set; }
         public DbSet<BanerSlider> BanerSliders { get; set; }
+        public DbSet<Blog> Blogs { get; set; }
+        public DbSet<Baner> Baners { get; set; }
+
     }
 }
