@@ -55,7 +55,6 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
 
             Blog blog = new()
             {
-                Description = createBlogVM.Description, 
                 BlogTitle = createBlogVM.BlogTitle,
                 BlogDescription = createBlogVM.BlogDescription,
                 Image = filename
@@ -105,8 +104,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
             var updateBlog = new UpdateBlogVM
             {
                 BlogTitle = blogDetails.BlogTitle,
-                BlogDescription = blogDetails.Description,
-                Description = blogDetails.Description,
+                BlogDescription = blogDetails.BlogDescription,
                 Image = blogDetails.Image,
             };
             return View(updateBlog); 
@@ -145,7 +143,6 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
                 }
                 blogDetails.Image = filename;
             }
-            blogDetails.Description = updateBlogVM.Description;
             blogDetails.BlogTitle = updateBlogVM.BlogTitle;
             blogDetails.BlogDescription = updateBlogVM.BlogDescription;
             await _context.SaveChangesAsync();

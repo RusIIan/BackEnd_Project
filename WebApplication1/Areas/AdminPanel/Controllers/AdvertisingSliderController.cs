@@ -8,12 +8,12 @@ using WebApplication1.Models;
 namespace WebApplication1.Areas.AdminPanel.Controllers
 {
     [Area("AdminPanel")]
-    public class BanerSliderController : Controller
+    public class AdvertisingSliderController : Controller
     {
         private readonly AppDbContext _context;
         private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public BanerSliderController(AppDbContext context, IWebHostEnvironment environment)
+        public AdvertisingSliderController(AppDbContext context, IWebHostEnvironment environment)
         {
             _context = context;
             _webHostEnvironment = environment;

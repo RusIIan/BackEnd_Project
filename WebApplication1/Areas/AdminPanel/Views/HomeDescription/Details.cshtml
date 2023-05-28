@@ -1,0 +1,24 @@
+﻿@model HomeDescription
+
+<div class="container">
+    <h1>Slider Details</h1>
+    <div class="row">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">ProductDescription</th>
+                    <th scope="col">TestimonialDescription</th>
+                    <th scope="col">BlogDescription</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td scope="col">@Model.ProductDescription</td>
+                    <td scope="col">@Model.TestimonialDescription</td>
+                    <td scope="col">@Model.BlogDescription</td>
+                    <a asp-action="Index" class="btn btn-outline-danger btn-light">Cancel</a>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
