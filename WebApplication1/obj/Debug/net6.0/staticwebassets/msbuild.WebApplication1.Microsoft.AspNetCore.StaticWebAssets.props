@@ -4064,6 +4064,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\a48926c2-d6b1-4178-901b-2c24bb0dcc3b___ford-ranger-raptor-2019-prichal-pikap-seryi.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\ae825b9a-c3fe-4b48-b71c-3def5b2ad5b9___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication1</BasePath>
+      <RelativePath>images/dbphoto/ae825b9a-c3fe-4b48-b71c-3def5b2ad5b9___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\ae825b9a-c3fe-4b48-b71c-3def5b2ad5b9___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\c6e25d13-6fd4-40ff-99fc-fa76aff76ea8___mercedes-mercedes-benz-glc-white.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication1</SourceId>
@@ -4159,6 +4175,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\fcd18a39-7bf1-4570-b6dd-982b5216ea35___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\feae4db3-dbaa-4cb6-a608-0a8288649aef___cherep-skelet-skull-indeets-peria-indian.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication1</BasePath>
+      <RelativePath>images/dbphoto/feae4db3-dbaa-4cb6-a608-0a8288649aef___cherep-skelet-skull-indeets-peria-indian.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\feae4db3-dbaa-4cb6-a608-0a8288649aef___cherep-skelet-skull-indeets-peria-indian.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\ffbe109f-9184-43f0-b32f-b19094bf9e49___concept-ducati-diavel-1260-s-materico-ducati-mototsikl-baik.jpg))">
       <SourceType>Package</SourceType>
