@@ -1,0 +1,26 @@
+﻿@model SocialMedia
+
+<div class="container">
+    <h1>Slider Details</h1>
+    <div class="row">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">Facebook</th>
+                    <th scope="col">Twitter</th>
+                    <th scope="col">Pinterest</th>
+                    <th scope="col">Dribbble</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td scope="col">@Model.FacebookLink</td>
+                    <td scope="col">@Model.TwitterLink</td>
+                    <td scope="col">@Model.PinterestLink</td>
+                    <td scope="col">@Model.DribbbleLink</td>
+                    <a asp-action="Index" class="btn btn-outline-danger btn-light">Cancel</a>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

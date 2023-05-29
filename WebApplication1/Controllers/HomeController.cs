@@ -24,6 +24,7 @@ namespace WebApplication1.Controllers
             var blogs = await _context.Blogs.ToListAsync();
             var baner = await _context.Baners.ToListAsync();
             var ProductSlider = await _context.ProductSliders.ToListAsync();
+            var Testimonial = await _context.Testimonials.ToListAsync();
             var homeDescription = await _context.HomeDescriptions.FirstOrDefaultAsync();
             var blog = await _context.Blogs.FirstOrDefaultAsync();
 
@@ -40,6 +41,7 @@ namespace WebApplication1.Controllers
                 Baner= baner,
                 ProductSliders = ProductSlider,
                 HomeDescriptions = homeDescription,
+                Testimonials =Testimonial
             };
             return View(homeVM);
         }

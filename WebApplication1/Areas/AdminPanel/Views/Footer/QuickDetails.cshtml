@@ -1,0 +1,22 @@
+﻿@model QuickLink
+
+<div class="container">
+    <h1>Slider Details</h1>
+    <div class="row">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">Phone</th>
+                    <th scope="col">Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td scope="col">@Model.Description</td>
+                    <td scope="col">@Model.PhoneNumber</td>
+                    <a asp-action="Index" class="btn btn-outline-danger btn-light">Cancel</a>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

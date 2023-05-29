@@ -1,0 +1,25 @@
+﻿@model CreateTestimonialVM
+<div class="container">
+    <h1 class="text-center my-2">Create Slider</h1>
+    <div class="row">
+        <form asp-action="Create" method="post" class="forms-sample my-2" enctype="multipart/form-data">
+            <div class="form-group">
+                <input asp-for="Name" class="form-control" placeholder="Name">
+            </div>
+            <div class="form-group">
+                <input asp-for="Surname" class="form-control" placeholder="Surname">
+            </div>
+            <div class="form-group">
+                <input asp-for="Client" class="form-control" placeholder="Client">
+            </div>  
+            <div class="form-group">
+                <input asp-for="Comment" class="form-control" placeholder="Comment">
+            </div>
+            <div class="form-group">
+                <input asp-for="Photo" class="form-control" placeholder="Photo">
+            </div>
+            <button type="submit" class="btn btn-outline-success me-2">Submit</button>
+            <a asp-action="Index" class="btn btn-outline-danger btn-light">Cancel</a>
+        </form>
+    </div>
+</div>

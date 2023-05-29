@@ -6,5 +6,6 @@
         public string Surname { get; set; }
         public string Comment { get; set; }
         public string Image { get; set; }
+        public string Client { get; set; }
     }
 }

@@ -21,6 +21,10 @@ namespace WebApplication1.Data
         public DbSet<Baner> Baners { get; set; }
         public DbSet<ProductSlider> ProductSliders { get; set; }
         public DbSet<HomeDescription> HomeDescriptions { get; set; }
+        public DbSet<ProductColor> Colors { get; set; }
+        public DbSet<SocialMedia> SocialMedias { get; set; }
+        public DbSet<QuickLink> QuickLinks { get; set; }
+        public DbSet<Testimonial> Testimonials { get; set; }
 
     }
 }

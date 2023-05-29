@@ -635,8 +635,10 @@ img {
   width: 20px;
   height: 20px;
   margin-right: 15px;
-  -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
-          animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+  -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out
+ both;
+          animation: sk-bouncedelay 1.4s infinite ease-in-out
+ both;
 }
 
 .preloader-active .preloader-area-wrap .spinner div.bounce1 {
@@ -4863,6 +4865,7 @@ blockquote p {
 
 .blog-comment-content .user-comment {
   margin-bottom: 20px;
+  max-width:100%;
   line-height: 30px;
 }
 
@@ -4996,6 +4999,7 @@ blockquote p {
 .testimonial-item .user-comment {
   color: #434343;
   font-style: italic;
+  width:80%;
   line-height: 32px;
 }
 

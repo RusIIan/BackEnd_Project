@@ -3744,38 +3744,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\08e7146d-7e48-47fb-9523-824485ddacf4___jeep-grand-cherokee-dzhip-2347.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\14b0ec43-4231-4e07-bf3b-a425634053c2___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>WebApplication1</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WebApplication1</BasePath>
-      <RelativePath>images/dbphoto/14b0ec43-4231-4e07-bf3b-a425634053c2___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\14b0ec43-4231-4e07-bf3b-a425634053c2___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\1b0f4a84-aa21-411d-b995-e326ad066963___ford-ranger-raptor-2019-prichal-pikap-seryi.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>WebApplication1</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WebApplication1</BasePath>
-      <RelativePath>images/dbphoto/1b0f4a84-aa21-411d-b995-e326ad066963___ford-ranger-raptor-2019-prichal-pikap-seryi.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\1b0f4a84-aa21-411d-b995-e326ad066963___ford-ranger-raptor-2019-prichal-pikap-seryi.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\21ef4026-7ad6-49dc-8714-bebaaa49efc5___sidit-rabotaet-slushaet-muzyku.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication1</SourceId>
@@ -3840,12 +3808,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\36b3a59e-0824-45b4-8055-98701200f334 __ harley-davidson-hd-sportster-harley-davidson-harleay-davidso.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\4c75c991-e947-4579-9610-0d5f2ab0a2d0___porsche-911-gt3-porshe-fon-1.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\4e66e6c0-081b-4011-8804-af8236824010___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication1</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebApplication1</BasePath>
-      <RelativePath>images/dbphoto/4c75c991-e947-4579-9610-0d5f2ab0a2d0___porsche-911-gt3-porshe-fon-1.jpg</RelativePath>
+      <RelativePath>images/dbphoto/4e66e6c0-081b-4011-8804-af8236824010___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -3854,23 +3822,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\4c75c991-e947-4579-9610-0d5f2ab0a2d0___porsche-911-gt3-porshe-fon-1.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\4ca11416-8cfd-403c-9cbd-899f72be403a___porsche-911-gt3-porshe-fon-1.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>WebApplication1</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WebApplication1</BasePath>
-      <RelativePath>images/dbphoto/4ca11416-8cfd-403c-9cbd-899f72be403a___porsche-911-gt3-porshe-fon-1.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\4ca11416-8cfd-403c-9cbd-899f72be403a___porsche-911-gt3-porshe-fon-1.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\4e66e6c0-081b-4011-8804-af8236824010___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\4f2c82f0-b81b-4e22-8f45-52cfe764aa80___bike-yamaha-sport-garage-mototsikl-garazh.jpg))">
       <SourceType>Package</SourceType>
@@ -3887,6 +3839,38 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\4f2c82f0-b81b-4e22-8f45-52cfe764aa80___bike-yamaha-sport-garage-mototsikl-garazh.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\50d27cf7-f33e-4a27-9d1e-97fc37e8193c___dzhentlmen-muzhskoi-obraz-muzhchina-gentleman-blagorodnyi-te.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication1</BasePath>
+      <RelativePath>images/dbphoto/50d27cf7-f33e-4a27-9d1e-97fc37e8193c___dzhentlmen-muzhskoi-obraz-muzhchina-gentleman-blagorodnyi-te.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\50d27cf7-f33e-4a27-9d1e-97fc37e8193c___dzhentlmen-muzhskoi-obraz-muzhchina-gentleman-blagorodnyi-te.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\5e64ece2-7312-4038-a01c-201e90b2bfa6___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication1</BasePath>
+      <RelativePath>images/dbphoto/5e64ece2-7312-4038-a01c-201e90b2bfa6___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\5e64ece2-7312-4038-a01c-201e90b2bfa6___gradient-krug-raduzhnyi-neonovyi-krug-neon-neonovyi-krug-vyv.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\653a198d-44da-4ed4-bf5f-655cdd57cd74___concept-ducati-diavel-1260-s-materico-ducati-mototsikl-baik.jpg))">
       <SourceType>Package</SourceType>
@@ -3920,22 +3904,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\672ca3be-66ab-43ac-aeb9-4f84ac932b2b___cherep-skelet-skull-indeets-peria-indian.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\725a74f2-d024-4128-bda2-f339947fe052___tesla-tesla-model-s-tesla-usa-ssha.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>WebApplication1</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WebApplication1</BasePath>
-      <RelativePath>images/dbphoto/725a74f2-d024-4128-bda2-f339947fe052___tesla-tesla-model-s-tesla-usa-ssha.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\725a74f2-d024-4128-bda2-f339947fe052___tesla-tesla-model-s-tesla-usa-ssha.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\7e2160a8-1f30-482a-8127-4e1fe296125b __ bike-yamaha-sport-garage-mototsikl-garazh.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication1</SourceId>
@@ -3951,6 +3919,38 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\7e2160a8-1f30-482a-8127-4e1fe296125b __ bike-yamaha-sport-garage-mototsikl-garazh.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\8238a125-d814-4998-aed6-bca5cea01316___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication1</BasePath>
+      <RelativePath>images/dbphoto/8238a125-d814-4998-aed6-bca5cea01316___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\8238a125-d814-4998-aed6-bca5cea01316___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\8fc17449-f8e9-41d2-98b3-88837f05103c__donkey-kong-kontroller-dzhoistik-bochki-skaly-igrovaia-prist.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication1</BasePath>
+      <RelativePath>images/dbphoto/8fc17449-f8e9-41d2-98b3-88837f05103c__donkey-kong-kontroller-dzhoistik-bochki-skaly-igrovaia-prist.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\8fc17449-f8e9-41d2-98b3-88837f05103c__donkey-kong-kontroller-dzhoistik-bochki-skaly-igrovaia-prist.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\98800223-ecc2-402c-99d9-4bf271fb7472___mercedes-mercedes-benz-glc-white.jpg))">
       <SourceType>Package</SourceType>
@@ -4016,12 +4016,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\a0486cc2-0bf0-4e99-8919-9154b7899a96 __ kawasaki-h2r-bike-supersport.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\a290460b-2287-4bf8-b7a1-ec26ea4dd2c6___porsche-991-gt-blue-vag-autumn.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\a2413e9e-e5f4-4d6e-b338-e32b7b441e4c___152966-minimalizm-kod-esteticheskaya_oshibka-aminoplast-anime-1920x1080.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication1</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebApplication1</BasePath>
-      <RelativePath>images/dbphoto/a290460b-2287-4bf8-b7a1-ec26ea4dd2c6___porsche-991-gt-blue-vag-autumn.jpg</RelativePath>
+      <RelativePath>images/dbphoto/a2413e9e-e5f4-4d6e-b338-e32b7b441e4c___152966-minimalizm-kod-esteticheskaya_oshibka-aminoplast-anime-1920x1080.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -4030,7 +4030,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\a290460b-2287-4bf8-b7a1-ec26ea4dd2c6___porsche-991-gt-blue-vag-autumn.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\a2413e9e-e5f4-4d6e-b338-e32b7b441e4c___152966-minimalizm-kod-esteticheskaya_oshibka-aminoplast-anime-1920x1080.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\a3c09e0b-4ccd-4fbd-89be-a5f668891a6b___bike-custom-triumph-daytona-675.jpg))">
       <SourceType>Package</SourceType>
@@ -4047,22 +4047,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\a3c09e0b-4ccd-4fbd-89be-a5f668891a6b___bike-custom-triumph-daytona-675.jpg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\a48926c2-d6b1-4178-901b-2c24bb0dcc3b___ford-ranger-raptor-2019-prichal-pikap-seryi.jpg))">
-      <SourceType>Package</SourceType>
-      <SourceId>WebApplication1</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WebApplication1</BasePath>
-      <RelativePath>images/dbphoto/a48926c2-d6b1-4178-901b-2c24bb0dcc3b___ford-ranger-raptor-2019-prichal-pikap-seryi.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\a48926c2-d6b1-4178-901b-2c24bb0dcc3b___ford-ranger-raptor-2019-prichal-pikap-seryi.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\ae825b9a-c3fe-4b48-b71c-3def5b2ad5b9___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg))">
       <SourceType>Package</SourceType>
@@ -4096,12 +4080,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\c6e25d13-6fd4-40ff-99fc-fa76aff76ea8___mercedes-mercedes-benz-glc-white.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\d22ecf8e-7c03-4c79-b71a-067d7575a673___tesla-tesla-model-s-tesla-usa-ssha.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\c97ef677-bca0-4137-bc48-e416359f6ae0___cherep-skelet-skull-indeets-peria-indian.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication1</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebApplication1</BasePath>
-      <RelativePath>images/dbphoto/d22ecf8e-7c03-4c79-b71a-067d7575a673___tesla-tesla-model-s-tesla-usa-ssha.jpg</RelativePath>
+      <RelativePath>images/dbphoto/c97ef677-bca0-4137-bc48-e416359f6ae0___cherep-skelet-skull-indeets-peria-indian.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -4110,14 +4094,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\d22ecf8e-7c03-4c79-b71a-067d7575a673___tesla-tesla-model-s-tesla-usa-ssha.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\c97ef677-bca0-4137-bc48-e416359f6ae0___cherep-skelet-skull-indeets-peria-indian.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\e39c7307-39fd-4117-828f-160a9b7577cd___porsche-991-gt-blue-vag-autumn.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\dd1eeaed-e522-4b2e-9038-568c8b9e7979___donkey-kong-kontroller-dzhoistik-bochki-skaly-igrovaia-prist.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication1</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebApplication1</BasePath>
-      <RelativePath>images/dbphoto/e39c7307-39fd-4117-828f-160a9b7577cd___porsche-991-gt-blue-vag-autumn.jpg</RelativePath>
+      <RelativePath>images/dbphoto/dd1eeaed-e522-4b2e-9038-568c8b9e7979___donkey-kong-kontroller-dzhoistik-bochki-skaly-igrovaia-prist.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -4126,7 +4110,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\e39c7307-39fd-4117-828f-160a9b7577cd___porsche-991-gt-blue-vag-autumn.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\dd1eeaed-e522-4b2e-9038-568c8b9e7979___donkey-kong-kontroller-dzhoistik-bochki-skaly-igrovaia-prist.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\e8c86443-8090-439f-a37e-68afa1f8a373___moto-baik-bike-husqvarna.jpg))">
       <SourceType>Package</SourceType>
@@ -4160,12 +4144,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\ec17fb2a-d732-4784-92c7-b2eaa1e9a7da___bike-yamaha-sport-garage-mototsikl-garazh.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\fcd18a39-7bf1-4570-b6dd-982b5216ea35___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\f8ecfa8a-249e-409c-9127-94d0e9ea552d___apple-swift-programing.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication1</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebApplication1</BasePath>
-      <RelativePath>images/dbphoto/fcd18a39-7bf1-4570-b6dd-982b5216ea35___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg</RelativePath>
+      <RelativePath>images/dbphoto/f8ecfa8a-249e-409c-9127-94d0e9ea552d___apple-swift-programing.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -4174,7 +4158,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\fcd18a39-7bf1-4570-b6dd-982b5216ea35___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\f8ecfa8a-249e-409c-9127-94d0e9ea552d___apple-swift-programing.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\dbphoto\feae4db3-dbaa-4cb6-a608-0a8288649aef___cherep-skelet-skull-indeets-peria-indian.jpg))">
       <SourceType>Package</SourceType>
