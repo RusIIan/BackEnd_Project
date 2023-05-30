@@ -14,12 +14,14 @@ namespace WebApplication1.Controllers
             _context = context;
         }
 
-        public async Task<IActionResult> Index(object ProductStyleVm)
+        public async Task<IActionResult> Index(int id)
         {
             var sliderProduct = await _context.ProductSliders.ToListAsync();
+            var product = await _context.HomeProducts.FirstOrDefaultAsync();
             ProductStyleVM productStyleVM = new()
             {
                 productSliders = sliderProduct,
+                homeProduct = product
             };
             return View(productStyleVM);
         }

@@ -79,14 +79,6 @@
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
-    <Content Update="Areas\AdminPanel\Views\HomeCategory\Index.cshtml">
-      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Update="Areas\AdminPanel\Views\HomeCategory\Update.cshtml">
-      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
     <Content Update="Areas\AdminPanel\Views\HomeDescription\Create.cshtml">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
@@ -140,8 +132,6 @@
     <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\Baner\Details.cshtml" />
     <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\Footer\Create.cshtml" />
     <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\Footer\Details.cshtml" />
-    <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\HomeCategory\Create.cshtml" />
-    <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\HomeCategory\Details.cshtml" />
     <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\HomeDescription\Create.cshtml" />
     <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\HomeDescription\Details.cshtml" />
     <_ContentIncludedByDefault Remove="Areas\AdminPanel\Views\ProductSlider\Create.cshtml" />
@@ -160,14 +150,6 @@
 
   <ItemGroup>
     <UpToDateCheckInput Remove="Areas\AdminPanel\Views\Baner\Details.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <UpToDateCheckInput Remove="Areas\AdminPanel\Views\HomeCategory\Create.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <UpToDateCheckInput Remove="Areas\AdminPanel\Views\HomeCategory\Details.cshtml" />
   </ItemGroup>
 
   <ItemGroup>

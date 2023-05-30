@@ -1,6 +1,6 @@
 ﻿namespace WebApplication1.Models
 {
-    public class BanerSlider : BaseEntity<int>
+    public class AdvertisingSlider : BaseEntity<int>
     {
         public string image { get; set; } = string.Empty;
     }

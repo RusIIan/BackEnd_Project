@@ -110,7 +110,7 @@ namespace WebApplication1.Migrations
                     b.ToTable("AboutPeoplePhotos");
                 });
 
-            modelBuilder.Entity("WebApplication1.Models.BanerSlider", b =>
+            modelBuilder.Entity("WebApplication1.Models.AdvertisingSlider", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

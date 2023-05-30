@@ -1,11 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using WebApplication1.Models;
 
 namespace WebApplication1.Data
 {
-    public class AppDbContext:DbContext
+    public class AppDbContext:IdentityDbContext<AppUser>
     {
-        public AppDbContext(DbContextOptions options):base(options)
+        public AppDbContext(DbContextOptions<AppDbContext> options):base(options)
         {
             
         }
@@ -16,7 +17,7 @@ namespace WebApplication1.Data
         public DbSet<About> Abouts  { get; set; }
         public DbSet<Contact> Contacts  { get; set; }
         public DbSet<AboutPeoplePhoto> AboutPeoplePhotos { get; set; }
-        public DbSet<BanerSlider> BanerSliders { get; set; }
+        public DbSet<AdvertisingSlider> BanerSliders { get; set; }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Baner> Baners { get; set; }
         public DbSet<ProductSlider> ProductSliders { get; set; }
@@ -26,5 +27,9 @@ namespace WebApplication1.Data
         public DbSet<QuickLink> QuickLinks { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+        }
     }
 }

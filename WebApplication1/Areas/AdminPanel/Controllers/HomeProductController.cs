@@ -63,7 +63,6 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
                 Name = createHomeProductVM.Name,
                 Price = createHomeProductVM.Price,
                 Star = createHomeProductVM.Star,
-                CategoryId = createHomeProductVM.CategoryId,
                 Image = filename
             };
             await _context.HomeProducts.AddAsync(product);
@@ -113,7 +112,6 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
                 Name = updateProduct.Name,
                 Price = updateProduct.Price,
                 Star = updateProduct.Star,
-                CategoryId = updateProduct.CategoryId,
                 Image = updateProduct.Image
             };
             return View(updateHomeProductVm);
@@ -163,7 +161,6 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
             updateProduct.Name = updateHomeProductVm.Name;
             updateProduct.Price = updateHomeProductVm.Price;
             updateProduct.Star = updateHomeProductVm.Star;
-            updateProduct.CategoryId = updateHomeProductVm.CategoryId;
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }

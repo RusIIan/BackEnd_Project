@@ -56,7 +56,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
 
             await createAboutVM.Photo.CopyToAsync(stream);
 
-            BanerSlider about = new()
+            AdvertisingSlider about = new()
             {
                 image = filename,
             };

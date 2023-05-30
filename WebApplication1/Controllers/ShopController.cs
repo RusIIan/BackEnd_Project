@@ -1,12 +1,22 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using WebApplication1.Data;
 
 namespace WebApplication1.Controllers
 {
     public class ShopController : Controller
     {
-        public IActionResult Index()
+    private readonly AppDbContext _context;
+
+        public ShopController(AppDbContext context)
         {
-            return View();
+            _context = context;
+        }
+
+        public async Task<IActionResult> Index()
+        {
+            var product = await _context.HomeProducts.ToListAsync();
+            return View(product);
         }
     }
 }

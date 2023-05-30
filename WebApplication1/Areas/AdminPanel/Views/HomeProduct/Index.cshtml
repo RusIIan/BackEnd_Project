@@ -7,11 +7,6 @@
         <a asp-action="Create" class="btn btn-outline-success mx-2 my-2">Create</a>
     </div>
     <div class="row">
-        <form method="get" asp-action="CategoryProduct">
-            <select name="productId" asp-items="ViewBag.Product">
-                <option value="0">Select Product</option>
-            </select>
-        </form>
        @if (Model.Count>0)
         {
             <table class="table table-hover">
@@ -21,7 +16,6 @@
                         <th scope="col">Name</th>
                         <th scope="col">Pridce</th>
                         <th scope="col">Star</th>
-                        <th scope="col">CategoryId</th>
                         <th scope="col">Settings</th>
                     </tr>
                 </thead>
@@ -32,7 +26,6 @@
                             <td scope="col">@(count++)</td>
                             <td scope="col">@item.Name</td>
                             <td scope="col">@item.Price</td>
-                            <td scope="col">@item.CategoryId</td>
                             <td scope="col">@item.Star</td>
                             <td scope="col">
                                 <img src="~/images//dbphoto/@item.Image" style="border-radius:20%" />
