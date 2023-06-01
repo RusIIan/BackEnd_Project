@@ -21,11 +21,27 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var product = await _context.HomeProducts.ToListAsync();
+            var product = await _context.HomeProducts.Include(x=>x.Category).ToListAsync();
             return View(product);
         }
 
-      
+        public async Task<IActionResult> ShowCategory(int categoryID)
+        {
+            ViewBag.Category = new SelectList((from cat in await _context.HomeCategories.ToListAsync()
+            select new
+            {
+                Id = cat.Id,
+                Type = cat.Type,
+            }), "Id", "Type");
+
+            var category = _context.HomeProducts.Include(x => x.Category).AsQueryable();
+
+            if (categoryID > 0)
+            {
+                category = category.Where(x => x.CategoryId == categoryID);
+            }
+            return View(category.ToList());
+        }
 
         [HttpGet]
         public IActionResult Create()
@@ -51,18 +67,20 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
             {
                 return View();
             }
+
             string filename = Guid.NewGuid().ToString() + "___" + createHomeProductVM.Photo.FileName;
             string path = Path.Combine(_webHostEnvironment.WebRootPath, "images/dbphoto", filename);
 
             using FileStream stream = new(path, FileMode.Create);
-
             await createHomeProductVM.Photo.CopyToAsync(stream);
 
-            HomeProduct product = new()
+            ViewData["CategoryId"] = new SelectList(_context.HomeCategories, "Id", "Name", createHomeProductVM.CategoryId);
+            Product product = new()
             {
                 Name = createHomeProductVM.Name,
                 Price = createHomeProductVM.Price,
                 Star = createHomeProductVM.Star,
+                CategoryId = createHomeProductVM.CategoryId,
                 Image = filename
             };
             await _context.HomeProducts.AddAsync(product);
@@ -112,6 +130,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
                 Name = updateProduct.Name,
                 Price = updateProduct.Price,
                 Star = updateProduct.Star,
+                CategoryId = updateProduct.CategoryId,
                 Image = updateProduct.Image
             };
             return View(updateHomeProductVm);
@@ -161,6 +180,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
             updateProduct.Name = updateHomeProductVm.Name;
             updateProduct.Price = updateHomeProductVm.Price;
             updateProduct.Star = updateHomeProductVm.Star;
+            updateProduct.CategoryId = updateHomeProductVm.CategoryId;
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }

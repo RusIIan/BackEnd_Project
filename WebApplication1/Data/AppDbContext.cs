@@ -11,8 +11,8 @@ namespace WebApplication1.Data
             
         }
         public DbSet<Slider> Sliders { get; set; }
-        public DbSet<HomeProduct> HomeProducts  { get; set; }
-        public DbSet<HomeCategory> HomeCategories  { get; set; }
+        public DbSet<Product> HomeProducts  { get; set; }
+        public DbSet<Category> HomeCategories  { get; set; }
         public DbSet<Shipping> Shippings  { get; set; }
         public DbSet<About> Abouts  { get; set; }
         public DbSet<Contact> Contacts  { get; set; }
@@ -26,6 +26,8 @@ namespace WebApplication1.Data
         public DbSet<SocialMedia> SocialMedias { get; set; }
         public DbSet<QuickLink> QuickLinks { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
+        public DbSet<HomeHeaderInformation> HeaderInfos { get; set; }
+        public DbSet<HomeHeaderPhone> HeaderPhones { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

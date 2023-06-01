@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using WebApplication1.Data;
+using WebApplication1.ViewModels;
 
 namespace WebApplication1.ViewComponents
 {
@@ -11,10 +13,17 @@ namespace WebApplication1.ViewComponents
         {
             _context = context;
         }
+
         public async Task<IViewComponentResult> InvokeAsync()
         {
-            //var socialMedia = awa 
-            return (await Task.FromResult(View()));
+            var headerPhone = await _context.HeaderPhones.FirstOrDefaultAsync();
+            var headerInfo = await _context.HeaderInfos.FirstOrDefaultAsync();
+            HeaderVM headerVM = new()
+            {
+                HeaderPhone = headerPhone,
+                HeaderInfo = headerInfo
+            };
+            return await Task.FromResult(View(headerVM));
         }
     }
 }

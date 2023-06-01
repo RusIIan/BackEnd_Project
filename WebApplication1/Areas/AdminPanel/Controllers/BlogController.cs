@@ -76,7 +76,7 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Detele(int id)
+        public async Task<IActionResult> Delete(int id)
         {
             var blogDetails = await _context.Blogs.FirstOrDefaultAsync(b => b.Id == id);
             if (blogDetails == null)

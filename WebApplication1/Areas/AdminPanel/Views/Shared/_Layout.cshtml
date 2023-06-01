@@ -172,17 +172,17 @@
                 <ul class="nav">
                     <li class="nav-item">
                         <a class="nav-link" asp-controller="Dashboard" asp-action="Index">
-                            <i class="mdi mdi-home menu-icon"></i>
+                            <i class="mdi mdi-home-variant menu-icon"></i>
                             <span class="menu-title">Dashboard</span>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" data-bs-toggle="collapse" href="#auth" aria-expanded="false" aria-controls="auth">
-                            <i class="mdi mdi-account menu-icon"></i>
+                        <a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
+                            <i class="mdi mdi-home menu-icon"></i>
                             <span class="menu-title">Home Page</span>
                             <i class="menu-arrow"></i>
                         </a>
-                        <div class="collapse" id="auth">
+                        <div class="collapse" id="ui-basic">
                             <ul class="nav flex-column sub-menu">
                                 <li class="nav-item"> <a class="nav-link" asp-controller="Slider" asp-action="Index">Slider</a></li>
                                 <li class="nav-item"> <a class="nav-link" asp-controller="Shipping" asp-action="Index">Shipping</a></li>
@@ -199,17 +199,43 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" data-bs-toggle="collapse" href="#auth" aria-expanded="false" aria-controls="auth">
-                            <i class="mdi mdi-account menu-icon"></i>
-                            <span class="menu-title">About</span>
+                        <a class="nav-link" data-bs-toggle="collapse" href="#about" aria-expanded="false" aria-controls="about">
+                            <i class="mdi mdi-information-variant menu-icon"></i>
+                            <span class="menu-title">About Page</span>
                             <i class="menu-arrow"></i>
                         </a>
-                        <div class="collapse" id="auth">
+                        <div class="collapse" id="about">
                             <ul class="nav flex-column sub-menu">
                                 <li class="nav-item"> <a class="nav-link" asp-controller="About" asp-action="Index">AboutUs</a></li>
                                 <li class="nav-item"> <a class="nav-link" asp-controller="AdvertisingSlider" asp-action="Index">Baner Slider</a></li>
                                 <li class="nav-item"> <a class="nav-link" asp-controller="AboutPeoplePhoto" asp-action="Index">About photo</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-bs-toggle="collapse" href="#contact" aria-expanded="false" aria-controls="contact">
+                            <i class="mdi mdi-account menu-icon"></i>
+                            <span class="menu-title">Contact</span>
+                            <i class="menu-arrow"></i>
+                        </a>
+                        <div class="collapse" id="contact">
+                            <ul class="nav flex-column sub-menu">
                                 <li class="nav-item"> <a class="nav-link" asp-controller="Contact" asp-action="Index">Contact</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-bs-toggle="collapse" href="#headerAndFooter" aria-expanded="false" aria-controls="headerAndFooter">
+                            <i class="mdi mdi-account menu-icon"></i>
+                            <span class="menu-title">Contact</span>
+                            <i class="menu-arrow"></i>
+                        </a>
+                        <div class="collapse" id="headerAndFooter">
+                            <ul class="nav flex-column sub-menu">
+                                <li class="nav-item"> <a class="nav-link" asp-controller="Footer" asp-action="Index">SocialMedia</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-controller="Footer" asp-action="IndexView">QuickLink</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-controller="HomeHeader" asp-action="Index">Phone</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-controller="HomeHeader" asp-action="IndexView">information</a></li>
                             </ul>
                         </div>
                     </li>

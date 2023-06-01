@@ -13,12 +13,12 @@
                             </a>
                         </div>
                         <p class="footer-widget-desc">
-                            @Model.QuickLink.Description
+                            @Model.QuickLink?.Description
                         </p>
                         <div class="social-link with-border">
                             <ul>
                                 <li>
-                                    <a href="@Model.SocialMedia.FacebookLink"
+                                    <a href="@Model.SocialMedia?.FacebookLink"
                                        data-tippy="Facebook"
                                        data-tippy-inertia="true"
                                        data-tippy-animation="shift-away"
@@ -29,7 +29,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="@Model.SocialMedia.TwitterLink"
+                                    <a href="@Model.SocialMedia?.TwitterLink"
                                        data-tippy="Twitter"
                                        data-tippy-inertia="true"
                                        data-tippy-animation="shift-away"
@@ -40,7 +40,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="@Model.SocialMedia.PinterestLink"
+                                    <a href="@Model.SocialMedia?.PinterestLink"
                                        data-tippy="Pinterest"
                                        data-tippy-inertia="true"
                                        data-tippy-animation="shift-away"
@@ -51,7 +51,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="@Model.SocialMedia.DribbbleLink"
+                                    <a href="@Model.SocialMedia?.DribbbleLink"
                                        data-tippy="Dribbble"
                                        data-tippy-inertia="true"
                                        data-tippy-animation="shift-away"
@@ -134,7 +134,7 @@
                 <div class="col-lg-3 pt-40">
                     <div class="footer-contact-info">
                         <h3 class="footer-widget-title">Got Question? Call Us</h3>
-                        <a class="number" href="tel://@Model.QuickLink.PhoneNumber">@Model.QuickLink.PhoneNumber</a>
+                        <a class="number" href="tel://@Model.QuickLink?.PhoneNumber">@Model.QuickLink?.PhoneNumber</a>
                         <div class="address">
                             <ul>
                                 <li>Your Address Goes Here</li>

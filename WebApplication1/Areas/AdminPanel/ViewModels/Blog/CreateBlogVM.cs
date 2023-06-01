@@ -5,8 +5,6 @@ namespace WebApplication1.Areas.AdminPanel.ViewModels.Blog
 {
     public class CreateBlogVM
     {
-        [AllowNull]
-        public string Description { get; set; }
         [Required]
         public string BlogTitle { get; set; }
         [Required]

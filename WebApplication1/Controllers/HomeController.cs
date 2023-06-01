@@ -19,10 +19,10 @@ namespace WebApplication1.Controllers
         {
             var slider = await _context.Sliders.ToListAsync();
             var shipping = await _context.Shippings.ToListAsync();
-            var homeProduct = await _context.HomeProducts.ToListAsync();
+            var homeProduct = await _context.HomeProducts?.ToListAsync();
             var Baner = await _context.BanerSliders.ToListAsync();
             var blogs = await _context.Blogs.ToListAsync();
-            var baner = await _context.Baners.ToListAsync();
+            var baner = await _context.Baners?.ToListAsync();
             var ProductSlider = await _context.ProductSliders.ToListAsync();
             var Testimonial = await _context.Testimonials.ToListAsync();
             var homeDescription = await _context.HomeDescriptions.FirstOrDefaultAsync();
@@ -34,7 +34,7 @@ namespace WebApplication1.Controllers
             {
                 Sliders = slider,
                 Shippings = shipping,
-                HomeProducts= homeProduct,
+                HomeProducts = homeProduct,
                 BanerSliders = Baner,
                 Blogs = blogs,
                 Blog = blog,

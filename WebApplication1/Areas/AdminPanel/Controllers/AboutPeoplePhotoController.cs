@@ -1,9 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WebApplication1.Areas.AdminPanel.ViewModels.About;
 using WebApplication1.Areas.AdminPanel.ViewModels.AboutPeople;
 using WebApplication1.Data;
-using WebApplication1.Migrations;
 using WebApplication1.Models;
 
 namespace WebApplication1.Areas.AdminPanel.Controllers

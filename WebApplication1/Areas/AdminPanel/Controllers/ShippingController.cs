@@ -77,13 +77,9 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
 
         [HttpPost]
         public async Task<IActionResult> Delete(int id)
-        {
-            var shippingsCount = await _context.Shippings.CountAsync();
- 
+        { 
             var shippings = await _context.Shippings.FirstOrDefaultAsync(x => x.Id == id);
-
             if (shippings == null) return View();
-
 
             string path = Path.Combine(_webHostEnvironment.WebRootPath, "images/dbphoto", shippings.Image);
 
@@ -91,7 +87,6 @@ namespace WebApplication1.Areas.AdminPanel.Controllers
             {
                 System.IO.File.Delete(path);
             }
-
 
             _context.Shippings.Remove(shippings);
             await _context.SaveChangesAsync();

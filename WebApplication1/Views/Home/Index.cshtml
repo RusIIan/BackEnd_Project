@@ -96,7 +96,7 @@
 
 
       <!-- Begin Product Area -->
-<div class="product-area section-space-top-100">
+      <div class="product-area section-space-top-100">
     <div class="container">
         <div class="section-title-wrap">
             <h2 class="section-title mb-0">Our Products</h2>
@@ -126,7 +126,7 @@
                 <div class="tab-content" id="myTabContent">
                     <div class="tab-pane fade show active" id="featured" role="tabpanel" aria-labelledby="featured-tab">
                         <div class="product-item-wrap row">
-                            @foreach (var item in Model.HomeProducts.Where(x=>x.Star>=3))
+                            @foreach (var item in Model.HomeProducts?.Where(x=>x.Star>=3))
                             {
                                 <div class="col-xl-3 col-md-4 col-sm-6">
                                     <div class="product-item">
@@ -184,7 +184,7 @@
                     </div>
                     <div class="tab-pane fade" id="bestseller" role="tabpanel" aria-labelledby="bestseller-tab">
                         <div class="product-item-wrap row">
-                            @foreach (var item in Model.HomeProducts.Where(x=>x.Price<=30))
+                            @foreach (var item in Model.HomeProducts?.Where(x=>x.Price<=30))
                             {
                                 <div class="col-xl-3 col-md-4 col-sm-6">
                                     <div class="product-item">
@@ -242,7 +242,7 @@
                     </div>
                     <div class="tab-pane fade" id="latest" role="tabpanel" aria-labelledby="latest-tab">
                         <div class="product-item-wrap row">
-                            @foreach (var item in Model.HomeProducts.OrderByDescending(x=>x.Id).Take(10))
+                            @foreach (var item in Model.HomeProducts?.OrderByDescending(x=>x.Id).Take(10))
                             {
                                 <div class="col-xl-3 col-md-4 col-sm-6">
                                     <div class="product-item">
@@ -401,7 +401,7 @@
             <div class="section-title-wrap without-tab">
               <h2 class="section-title">New Products</h2>
               <p class="section-desc">
-                @Model.HomeDescriptions.ProductDescription
+                @Model.HomeDescriptions?.ProductDescription
               </p>
             </div>
             <div class="col-lg-12">
@@ -499,7 +499,7 @@
           >
             <div class="section-title-wrap">
               <h2 class="section-title">What Say Client</h2>
-              <p class="section-desc mb-0">@Model.HomeDescriptions.TestimonialDescription
+              <p class="section-desc mb-0">@Model.HomeDescriptions?.TestimonialDescription
               </p>
             </div>
           </div>
@@ -570,7 +570,7 @@
           <div class="section-title-wrap">
             <h2 class="section-title mb-7">Latest Blog</h2>
             <p class="section-desc">
-              @Model.HomeDescriptions.BlogDescription
+              @Model.HomeDescriptions?.BlogDescription
             </p>
           </div>
  
