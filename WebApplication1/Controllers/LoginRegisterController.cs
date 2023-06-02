@@ -53,7 +53,7 @@ namespace WebApplication1.Controllers
         public async Task<IActionResult> Register(RegisterVM registerVM)
         {
             if (!ModelState.IsValid)
-                return View(registerVM);
+                return View("Index",registerVM);
 
             AppUser newUser = new AppUser
             {

@@ -1,0 +1,20 @@
+﻿@model ProductColor
+
+<div class="container">
+    <h1>Slider Details</h1>
+    <div class="row">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">Color</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td scope="col">@Model.Name</td>
+                    <a asp-action="Index" class="btn btn-outline-danger btn-light">Cancel</a>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

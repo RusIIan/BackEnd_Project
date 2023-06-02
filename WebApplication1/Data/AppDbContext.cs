@@ -20,7 +20,6 @@ namespace WebApplication1.Data
         public DbSet<AdvertisingSlider> BanerSliders { get; set; }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Baner> Baners { get; set; }
-        public DbSet<ProductSlider> ProductSliders { get; set; }
         public DbSet<HomeDescription> HomeDescriptions { get; set; }
         public DbSet<ProductColor> Colors { get; set; }
         public DbSet<SocialMedia> SocialMedias { get; set; }
@@ -28,6 +27,7 @@ namespace WebApplication1.Data
         public DbSet<Testimonial> Testimonials { get; set; }
         public DbSet<HomeHeaderInformation> HeaderInfos { get; set; }
         public DbSet<HomeHeaderPhone> HeaderPhones { get; set; }
+        public DbSet<ProductStylePage> ProductStylePages { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

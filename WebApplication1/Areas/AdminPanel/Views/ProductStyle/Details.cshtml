@@ -1,0 +1,31 @@
+﻿@model ProductStylePage
+
+<div class="container">
+    <h1>Slider Details</h1>
+    <div class="row">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">AboutText</th>
+                    <th scope="col">Guaranteetext</th>
+                    <th scope="col">ClientName</th>
+                    <th scope="col">ClientComent</th>
+                    <th scope="col">Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td scope="col">@Model.AboutreturnrequestText</td>
+                    <td scope="col">@Model.Guaranteetext</td>
+                    <td scope="col">@Model.ClientName</td>
+                    <td scope="col">@Model.ClientComent</td>
+                    <td scope="col">@Model.Description</td>
+                    <td>
+                        <img src="~/images//dbphoto/@Model.Image" width="200px" height="150px" />
+                    </td>
+                    <a asp-action="Index" class="btn btn-outline-danger btn-light">Cancel</a>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

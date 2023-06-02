@@ -1,0 +1,41 @@
+﻿@model UpdateHomeProductVM
+
+<div class="container">
+    <h1 class="text-center my-2">Update Slider</h1>
+    <img src="~/images/dbphoto/@Model.Image" width="250px" height="250px" style="border-radius:10%" />
+
+    <div class="row">
+        <form asp-action="Update" method="post" class="forms-sample my-2" enctype="multipart/form-data">
+            <div class="form-group">
+                <input asp-for="Name" class="form-control" placeholder="Name">
+            </div>
+            <div class="form-group">
+                <input asp-for="Price" class="form-control" placeholder="Price">
+            </div>
+            <div class="form-group">
+                <input asp-for="Star" class="form-control" placeholder="Star">
+            </div>
+            <div class="form-group">
+                <select asp-for="CategoryId" asp-items="@ViewBag.Category">
+                    <option value="0">Select Category</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <select asp-for="ProductColorId" asp-items="@ViewBag.Color">
+                    <option value="0">Select Color</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input asp-for="Decription" class="form-control" placeholder="Decription">
+            </div>
+            <div class="form-group">
+                <label>Slider Image</label>
+                <input asp-for="Photo" class="form-control">
+            </div>
+
+            <button type="submit" class="btn btn-outline-success me-2">Submit</button>
+            <input type="hidden" asp-for="Id" />
+            <a asp-action="Index" class="btn btn-outline-danger btn-light">Cancel</a>
+        </form>
+    </div>
+</div>

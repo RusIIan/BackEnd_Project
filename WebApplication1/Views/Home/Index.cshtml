@@ -1,6 +1,8 @@
 ﻿@model HomeVM
 @{
     ViewData["Title"] = "Home Page";
+
+    int bannerCount = Model.Baner.Count();
 }
 
 
@@ -305,57 +307,69 @@
 </div>
       <!-- Product Area End Here -->
 
+      @{
+      
+      }
       <!-- Begin Banner Area -->
       <div class="banner-area section-space-top-90">
         <div class="container">
           <div class="row g-min-30 g-4">
             <div class="col-lg-8">
               <div class="banner-item img-hover-effect">
-                <div class="banner-img">
-                  <img
-                    src="~/images/dbphoto/@Model.Baner[0].Image"
-                    alt="Banner Image"
-                  />
-                </div>
-                <div class="banner-content text-position-left">
-                  <span class="collection">@Model.Baner[0].Label</span>
-                  <h3 class="title">
-                    @Model.Baner[0].Description
-                  </h3>
-                  <div class="button-wrap">
-                    <a
-                      class="btn btn-custom-size btn-pronia-primary"
-                      asp-controller="Shop" asp-action="Index"
-                      >Shop Now</a>
-                  </div>
-                </div>
+                    @if (bannerCount > 0)
+                    { 
+                        <div class="banner-img">
+                            <img
+                              src="~/images/dbphoto/@Model.Baner[0].Image"
+                              alt="Banner Image"
+                            />
+                        </div>
+                        <div class="banner-content text-position-left">
+                             <span class="collection">@Model.Baner[0].Label</span>
+                                  <h3 class="title">
+                                    @Model.Baner[0].Description
+                                  </h3>
+                              <div class="button-wrap">
+                                <a
+                                  class="btn btn-custom-size btn-pronia-primary"
+                                  asp-controller="Shop" asp-action="Index"
+                                  >Shop Now</a>
+                              </div>
+                        </div>
+                    }
               </div>
             </div>
+
             <div class="col-lg-4 col-md-6">
-              <div class="banner-item img-hover-effect">
-                <div class="banner-img">
-                  <img
-                    src="~/images/dbphoto/@Model.Baner[1].Image"
-                    alt="Banner Image"
-                  />
-                </div>
-                <div class="banner-content text-position-center">
-                        <span class="collection">@Model.Baner[1].Label</span>
-                        <h3 class="title">
-                            @Model.Baner[1].Description
-                        </h3>
-                  <div class="button-wrap">
-                    <a
-                      class="btn btn-custom-size lg-size btn-pronia-primary"
+                @if (bannerCount > 1)
+                {
+                    <div class="banner-item img-hover-effect">
+                        <div class="banner-img">
+                            <img
+    src="~/images/dbphoto/@Model.Baner[1].Image"
+    alt="Banner Image"
+                            />
+                        </div>
+                        <div class="banner-content text-position-center">
+                            <span class="collection">@Model.Baner[1].Label</span>
+                            <h3 class="title">
+                                @Model.Baner[1].Description
+                            </h3>
+                            <div class="button-wrap">
+                                <a
+    class="btn btn-custom-size lg-size btn-pronia-primary"
                       asp-controller="Shop" asp-action="Index"
-                      >Shop Now</a>
-                  </div>
-                </div>
-              </div>
+                                >Shop Now</a>
+                            </div>
+                        </div>
+                    </div>
+                }
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="banner-item img-hover-effect">
-                    <div class="banner-img">
+                @if (bannerCount > 2)
+                {
+                    <div class="banner-item img-hover-effect">
+                        <div class="banner-img">
                         <img src="~/images/dbphoto/@Model.Baner[2].Image"
                              alt="Banner Image" />
                     </div>
@@ -370,24 +384,28 @@
                         </div>
                     </div>
                 </div>
+                }
             </div>
             <div class="col-lg-8">
-                <div class="banner-item img-hover-effect">
-                    <div class="banner-img">
-                        <img src="~/images/dbphoto/@Model.Baner[3].Image"
-                             alt="Banner Image" />
-                    </div>
-                    <div class="banner-content text-position-left">
-                        <span class="collection">@Model.Baner[3].Label</span>
-                        <h3 class="title">
-                            @Model.Baner[3].Description
-                        </h3>
-                        <div class="button-wrap">
-                            <a class="btn btn-custom-size btn-pronia-primary"
+                @if(bannerCount > 3)
+                {
+                    <div class="banner-item img-hover-effect">
+                        <div class="banner-img">
+                            <img src="~/images/dbphoto/@Model.Baner[3].Image"
+                          alt="Banner Image" />
+                        </div>
+                        <div class="banner-content text-position-left">
+                            <span class="collection">@Model.Baner[3].Label</span>
+                            <h3 class="title">
+                                @Model.Baner[3].Description
+                            </h3>
+                            <div class="button-wrap">
+                                <a class="btn btn-custom-size btn-pronia-primary"
                                asp-controller="Shop" asp-action="Index">Shop Now</a>
+                            </div>
                         </div>
                     </div>
-                </div>
+                }
             </div>
           </div>
         </div>
@@ -399,7 +417,10 @@
         <div class="container">
           <div class="row">
             <div class="section-title-wrap without-tab">
-              <h2 class="section-title">New Products</h2>
+                @if (Model.HomeDescriptions?.ProductDescription!=null)
+                {
+                     <h2 class="section-title">New Products</h2>
+                }
               <p class="section-desc">
                 @Model.HomeDescriptions?.ProductDescription
               </p>
@@ -408,7 +429,7 @@
               <div class="swiper-container product-slider">
                 <div class="swiper-wrapper">
 
-                 @foreach (var productSlider in Model.ProductSliders)
+                 @foreach (var productSlider in Model.HomeProducts)
                         {
                             <div class="swiper-slide product-item">
                                   <div class="product-img">
@@ -498,7 +519,10 @@
             data-bg-image="/images/testimonial/bg/1-1-1820x443.jpg"
           >
             <div class="section-title-wrap">
-              <h2 class="section-title">What Say Client</h2>
+                @if (Model.HomeDescriptions?.TestimonialDescription!=null)
+                {
+                    <h2 class="section-title">What Say Client</h2>
+                }
               <p class="section-desc mb-0">@Model.HomeDescriptions?.TestimonialDescription
               </p>
             </div>
@@ -568,7 +592,10 @@
       <div class="blog-area section-space-bottom-100">
         <div class="container">
           <div class="section-title-wrap">
-            <h2 class="section-title mb-7">Latest Blog</h2>
+              @if (Model.HomeDescriptions?.BlogDescription!=null)
+            {
+                <h2 class="section-title mb-7">Latest Blog</h2>
+            }
             <p class="section-desc">
               @Model.HomeDescriptions?.BlogDescription
             </p>
