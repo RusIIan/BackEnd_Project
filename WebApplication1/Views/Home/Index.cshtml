@@ -100,6 +100,8 @@
       <!-- Begin Product Area -->
       <div class="product-area section-space-top-100">
     <div class="container">
+        @if (Model.HomeProducts.Count()>0)
+        {
         <div class="section-title-wrap">
             <h2 class="section-title mb-0">Our Products</h2>
         </div>
@@ -303,13 +305,12 @@
                 </div>
             </div>
         </div>
+        }
     </div>
 </div>
       <!-- Product Area End Here -->
 
-      @{
-      
-      }
+
       <!-- Begin Banner Area -->
       <div class="banner-area section-space-top-90">
         <div class="container">

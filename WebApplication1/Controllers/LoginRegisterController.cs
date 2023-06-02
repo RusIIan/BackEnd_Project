@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using WebApplication1.Data;
 using WebApplication1.Models;
 using WebApplication1.ViewModels;
 
@@ -10,13 +9,11 @@ namespace WebApplication1.Controllers
     {
         private readonly UserManager<AppUser> _userManager;
         private readonly SignInManager<AppUser> _signInManager;
-        private readonly AppDbContext _context;
 
-        public LoginRegisterController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, AppDbContext context)
+        public LoginRegisterController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager)
         {
             _userManager = userManager;
             _signInManager = signInManager;
-            _context = context;
         }
 
         public IActionResult Index()

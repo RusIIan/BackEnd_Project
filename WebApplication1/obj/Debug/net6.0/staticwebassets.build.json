@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VDb/0nAwxdt1KV2W/VfQVxzGsuehd/fRtD78pxf94dE=",
+  "Hash": "MeN/jRcYxsLFCogYNPnm9ZaOElseGSVjfz/61/TPjdc=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -4233,6 +4233,23 @@
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\15e138e6-87e3-4718-999b-abb76ffd882c __ derevia-krona-zelen.jpg"
     },
     {
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\16372ced-0e85-4373-a428-30c9601b260d___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/dbphoto/16372ced-0e85-4373-a428-30c9601b260d___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\16372ced-0e85-4373-a428-30c9601b260d___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\1af73a58-a3ab-45c6-936d-89ef478dfc7c __ kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -4367,23 +4384,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\295328de-e995-4c51-b4e1-aeb645ad4a57___derevia-krona-zelen.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\2acd90d2-23b7-497d-b677-d9975c3e80e7___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/dbphoto/2acd90d2-23b7-497d-b677-d9975c3e80e7___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\2acd90d2-23b7-497d-b677-d9975c3e80e7___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\2cf71a04-b827-4931-bd0d-146a0e81323e___shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg",
@@ -4522,40 +4522,6 @@
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\3fc9b248-db4e-4419-89c8-b646ad474285___greg-martin-ozero-gory.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\42d9ffa4-9926-4846-8805-3c78310335e8___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/dbphoto/42d9ffa4-9926-4846-8805-3c78310335e8___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\42d9ffa4-9926-4846-8805-3c78310335e8___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\43dc4f7f-063a-4fd2-9802-c7c9230a09b1___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/dbphoto/43dc4f7f-063a-4fd2-9802-c7c9230a09b1___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\43dc4f7f-063a-4fd2-9802-c7c9230a09b1___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
-    },
-    {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\48dec222-9535-4647-8c9c-aa8cfb272f7c___mercedes-mercedes-benz-glc-white.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -4605,6 +4571,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\4a66e890-bf48-4a91-8f37-54bc503809a5 __ kurort-leto-otdykh-tropicheskii-ostrov-more-pliazh-nebo-okea.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\4af18a7c-3425-4f14-9f5f-a17cc0fad601___tesla-tesla-model-s-tesla-usa-ssha.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/dbphoto/4af18a7c-3425-4f14-9f5f-a17cc0fad601___tesla-tesla-model-s-tesla-usa-ssha.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\4af18a7c-3425-4f14-9f5f-a17cc0fad601___tesla-tesla-model-s-tesla-usa-ssha.jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\4c521992-fffd-4db8-89dc-dc9a8f8dc300___noch-nebo-zvezdy-pole-holm.jpg",
@@ -4707,23 +4690,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\50d27cf7-f33e-4a27-9d1e-97fc37e8193c___dzhentlmen-muzhskoi-obraz-muzhchina-gentleman-blagorodnyi-te.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\56469358-9f4b-47e2-b5aa-3cdec5a0b9db___porsche-911-gt3-porshe-fon-1.jpg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/dbphoto/56469358-9f4b-47e2-b5aa-3cdec5a0b9db___porsche-911-gt3-porshe-fon-1.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\56469358-9f4b-47e2-b5aa-3cdec5a0b9db___porsche-911-gt3-porshe-fon-1.jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\58f043e2-1482-4ee7-a077-077fec2d21b2___shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg",
@@ -4896,23 +4862,6 @@
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\6e06631f-4984-45c9-a2f7-9b59ea7c4c56___porsche-991-gt-blue-vag-autumn.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\6f560dc2-0df1-47e3-869d-3243318aeea3___porsche-991-gt-blue-vag-autumn.jpg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/dbphoto/6f560dc2-0df1-47e3-869d-3243318aeea3___porsche-991-gt-blue-vag-autumn.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\6f560dc2-0df1-47e3-869d-3243318aeea3___porsche-991-gt-blue-vag-autumn.jpg"
-    },
-    {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\710ee238-b247-4274-98e8-e16e549c9ac5___vermilion-lakes-canadian-rockies-banff-national-park-alber-3.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -4981,23 +4930,6 @@
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\78af1d18-61fa-472b-a43e-f9c8f7c87ea5 __ shveitsariia-priroda-peizazh-ograzhdenie-gory-dom-lesa.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\79e57771-bdb8-419a-a109-958a61ef39da___jeep-grand-cherokee-dzhip-2347.jpg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/dbphoto/79e57771-bdb8-419a-a109-958a61ef39da___jeep-grand-cherokee-dzhip-2347.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\79e57771-bdb8-419a-a109-958a61ef39da___jeep-grand-cherokee-dzhip-2347.jpg"
-    },
-    {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\7d711d91-e228-4fe5-864a-1427f6aa538c __ porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -5064,23 +4996,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\8238a125-d814-4998-aed6-bca5cea01316___144368-art-logo-tekst-minimalizm-graficeskij_dizajn-1920x1080.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\859cc2b0-ba8b-4eac-b849-13752ae7ec02___jeep-grand-cherokee-dzhip-2347.jpg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/dbphoto/859cc2b0-ba8b-4eac-b849-13752ae7ec02___jeep-grand-cherokee-dzhip-2347.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\859cc2b0-ba8b-4eac-b849-13752ae7ec02___jeep-grand-cherokee-dzhip-2347.jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\871d6c72-223c-4718-ba77-698cb27c0e26___tesla-tesla-model-s-tesla-usa-ssha.jpg",
@@ -5406,6 +5321,23 @@
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\a3c09e0b-4ccd-4fbd-89be-a5f668891a6b___bike-custom-triumph-daytona-675.jpg"
     },
     {
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\a4464ad0-2dd3-4828-9ef6-80769915c0b4___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/dbphoto/a4464ad0-2dd3-4828-9ef6-80769915c0b4___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\a4464ad0-2dd3-4828-9ef6-80769915c0b4___porsche-taycan-turbo-s-2020-vetroelektrogeneratory-doroga.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\a4810e0a-c520-4074-8dcd-50abf767f62d___jeep-wrangler-sahara-2018-tiomno-seryi-tuman-syrost-gory.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -5542,23 +5474,6 @@
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\bbea8e0c-8979-4d02-828b-8877be06fd52__porsche-911-gt3-porshe-fon-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\c14733ab-3c7f-41c6-95b6-9996662591f0___porsche-991-gt-blue-vag-autumn.jpg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/dbphoto/c14733ab-3c7f-41c6-95b6-9996662591f0___porsche-991-gt-blue-vag-autumn.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\c14733ab-3c7f-41c6-95b6-9996662591f0___porsche-991-gt-blue-vag-autumn.jpg"
-    },
-    {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\c61aff3c-75fd-4405-9964-0c36ad4852d8___cherep-skelet-skull-indeets-peria-indian.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -5678,6 +5593,23 @@
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\cd65e8a7-4785-4b19-a005-be04b4214ec0___kurort-leto-otdykh-tropicheskii-ostrov-palmy-more-sineva-p-2.jpg"
     },
     {
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\cd745eaf-d10b-405b-b48e-fa43b3d49b9b___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/dbphoto/cd745eaf-d10b-405b-b48e-fa43b3d49b9b___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\cd745eaf-d10b-405b-b48e-fa43b3d49b9b___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\dad347e4-9e30-41d3-a631-e7336fd450de___more-pliazh-bungalo.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -5712,23 +5644,6 @@
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\dd1eeaed-e522-4b2e-9038-568c8b9e7979___donkey-kong-kontroller-dzhoistik-bochki-skaly-igrovaia-prist.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\dfb312b4-b297-4d88-8a12-2ccec2861c54___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/dbphoto/dfb312b4-b297-4d88-8a12-2ccec2861c54___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\dfb312b4-b297-4d88-8a12-2ccec2861c54___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
-    },
-    {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\e4e8f7a8-1c9c-4818-8267-9778c3777239 __ porsche-911-gt3-porshe-fon-1.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -5744,6 +5659,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\dbphoto\\e4e8f7a8-1c9c-4818-8267-9778c3777239 __ porsche-911-gt3-porshe-fon-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\e7c6e436-1c61-47a5-a957-16a18f6ce274___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/dbphoto/e7c6e436-1c61-47a5-a957-16a18f6ce274___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dbphoto\\e7c6e436-1c61-47a5-a957-16a18f6ce274___jeep-wrangler-unlimited-4-door-3-6l-2015.jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\BackEnd\\WebApplication1\\wwwroot\\images\\dbphoto\\e8835095-6899-4625-9c7e-731fe11a43b6___tesla-tesla-model-s-tesla-usa-ssha.jpg",
