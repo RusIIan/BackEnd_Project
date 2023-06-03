@@ -137,6 +137,12 @@
                                 <li>
                                     <a asp-controller="About" asp-action="Index">About Us</a>
                                 </li>
+                                @if (User.Identity.IsAuthenticated)
+                                {
+                                <li>
+                                    <a asp-area="AdminPanel" asp-controller="Dashboard" asp-action="Index">Admin</a>
+                                </li>
+                                }
                             </ul>
                         </nav>
                     </div>
@@ -171,6 +177,12 @@
                                     <li>
                                         <a asp-controller="About" asp-action="Index">About Us</a>
                                     </li>
+                                    @if (User.Identity.IsAuthenticated)
+                                    {
+                                        <li>
+                                            <a asp-area="AdminPanel" asp-controller="Dashboard" asp-action="Index">Admin</a>
+                                        </li>
+                                    }
                                 </ul>
                             </nav>
                         </div>
