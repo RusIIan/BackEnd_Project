@@ -155,7 +155,7 @@
                         <div class="tab-pane fade show active" id="grid-view" role="tabpanel" aria-labelledby="grid-view-tab">
                             <div class="product-grid-view row g-y-20">
 
-                                @foreach (var item in Model.Pagination.Datas)
+                                @foreach (var item in Model.Products)
                                 {
                                     <div class="col-md-4 col-sm-6">
                                         <div class="product-item">
@@ -225,25 +225,20 @@
                                                 </a>
                                             </div>
                                             <div class="product-content">
-                                                <a class="product-name" asp-controller="ProductStyle" asp-action="Index" asp-route-id="@item.Id">American Marigold</a>
+                                                <a class="product-name" asp-controller="ProductStyle" asp-action="Index" asp-route-id="@item.Id">@item.Name</a>
                                                 <div class="price-box pb-1">
-                                                    <span class="new-price">$23.45</span>
+                                                    <span class="new-price">$@item.Price</span>
                                                 </div>
                                                 <div class="rating-box">
                                                     <ul>
-                                                        <li><i class="fa fa-star"></i></li>
-                                                        <li><i class="fa fa-star"></i></li>
-                                                        <li><i class="fa fa-star"></i></li>
-                                                        <li><i class="fa fa-star"></i></li>
-                                                        <li><i class="fa fa-star"></i></li>
+                                                        @for (int i = 0; i < item.Star; i++)
+                                                        {
+                                                            <li><i class="fa fa-star"></i></li>
+                                                        }
                                                     </ul>
                                                 </div>
                                                 <p class="short-desc mb-0">
-                                                    Proin nec ligula dolor. Mauris mollis turpis vitae
-                                                    viverra viverra. Mauris at lacus commodo, dictum
-                                                    eros in, interdum diam. Sed lorem orci, maximus
-                                                    nec efficitur, mattis sed tortor. Voluptates
-                                                    repudiandae nulla rhoncus varius eget id eros.
+                                                  @item.Decription
                                                 </p>
                                                 <div class="product-add-action">
                                                     <ul>
