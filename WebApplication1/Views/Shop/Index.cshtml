@@ -155,7 +155,7 @@
                         <div class="tab-pane fade show active" id="grid-view" role="tabpanel" aria-labelledby="grid-view-tab">
                             <div class="product-grid-view row g-y-20">
 
-                                @foreach (var item in Model.Products)
+                                @foreach (var item in Model.Pagination.Datas)
                                 {
                                     <div class="col-md-4 col-sm-6">
                                         <div class="product-item">
@@ -277,18 +277,18 @@
                             </div>
                         </div>
                     </div>
+
+
                     <div class="pagination-area">
                         <nav aria-label="Page navigation example">
                             <ul class="pagination justify-content-center">
-                                <li class="page-item active">
-                                    <a class="page-link" href="#">1</a>
-                                </li>
-                                <li class="page-item">
-                                    <a class="page-link" href="#">2</a>
-                                </li>
-                                <li class="page-item">
-                                    <a class="page-link" href="#">3</a>
-                                </li>
+                                  @for (int i = 1; i < Model.Pagination.TotalPage; i++)
+                                  {
+                                      <li class="page-item active">
+                                          <a class="page-link @(Model.Pagination.CurrentPage == i ? "disable": "")" asp-action="Index" asp-route-page="@i" >@i</a>
+                                      </li>
+                                  }
+
                                 <li class="page-item">
                                     <a class="page-link" href="#" aria-label="Next">&raquo;</a>
                                 </li>

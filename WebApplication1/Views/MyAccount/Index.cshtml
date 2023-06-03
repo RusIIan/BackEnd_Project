@@ -63,7 +63,7 @@
                         <li class="nav-item">
                             <a class="nav-link"
                                id="account-logout-tab"
-                               href="login-register.html"
+                               asp-controller="LoginRegister" asp-action="Logout"
                                role="tab"
                                aria-selected="false">Logout</a>
                         </li>
@@ -79,7 +79,7 @@
                             <div class="myaccount-dashboard">
                                 <p>
                                     Hello <b>Pronia</b> (not Pronia?
-                                    <a href="login-register.html">Sign out</a>)
+                                    <a asp-controller="LoginRegister" asp-action="Logout">Sign out</a>)
                                 </p>
                                 <p>
                                     From your account dashboard you can view your recent
